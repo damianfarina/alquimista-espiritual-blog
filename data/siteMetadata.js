@@ -11,11 +11,11 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'nvfarina@gmail.com',
-  github: 'https://github.com/alquimistaespiritual',
-  twitter: 'https://twitter.com/alquimistaespiritual',
-  facebook: 'https://facebook.com/alquimistaespiritual',
-  youtube: 'https://youtube.com/alquimistaespiritual',
-  linkedin: 'https://www.linkedin.com/alquimistaespiritual',
+  // github: 'https://github.com/alquimistaespiritual',
+  // twitter: 'https://twitter.com/alquimistaespiritual',
+  // facebook: 'https://facebook.com/alquimistaespiritual',
+  // youtube: 'https://youtube.com/alquimistaespiritual',
+  // linkedin: 'https://www.linkedin.com/alquimistaespiritual',
   locale: 'es-ES',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
