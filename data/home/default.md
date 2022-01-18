@@ -2,74 +2,31 @@
 title: Home
 ---
 
-# Bienvenid@s
-
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rule
+# ¡Bienvenid@ a mi laboratorio!
 
 ---
 
-## Emphasis
+He creado este sitio para compartir y explicar a lo que me dedico. Me imagino que te debés preguntar qué es eso de la **Alquimia espiritual**; por lo que he decidido comenzar por explicar qué es la alquimia…
 
-**This is bold text**
+Según la Real Academia Española (RAE), hay dos acepciones para este término:
 
-_This is italic text_
+- Conjunto de especulaciones y experiencias, generalmente de carácter esotérico, relativas a las transmutaciones de la materia, que influyó en el origen de la química.
+- Transmutación maravillosa e increíble.
+- 
+En la práctica de la alquimia se mezclan nociones de **astrología, espiritualidad, química, física** y también del **arte**. Los alquimistas se dedicaban a buscar la “piedra filosofal”, ya que tenían la intención de transformar el plomo en oro con ella. Voy a utilizar el sentido metafórico de la alquimia y le voy a asignar un significado al concepto “plomo”: algo pesado, carga, cosa sin valor; y otro al concepto “oro”: algo valioso, muy querido y deseado; y eso es justamente a lo que me dedico con mi vida. Tomo todas aquellas experiencias poco felices y las uso en mi beneficio, para mi evolución, y hoy quiero compartirlo con el mundo. Mi propuesta es acompañarte a que conviertas tu plomo en oro, que logres cambiar tu percepción y que eso que duele o incomoda te sea útil para seguir creciendo, evolucionando, sanando…
 
-~~Strikethrough~~
 
-## Blockquotes
+## Volvé a tu esencia
 
-> Blockquotes can also be nested...
+> *Sé el cambio que quieres ver en el mundo* (Mahatma Gandhi)
 >
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
+> *Lo importante no es lo que pienses, lo importante es lo que hagas* (Película Un monstruo viene a verme - 2016)
+> 
+> *Tú no puedes cambiar la situación, sí que puedes elegir cómo vivirla* (Enric Corbera)
+>
+> *Sé impecable con tus palabras, no te tomes nada personal, no hagas suposiciones, da tu 100 % en todo lo que hagas, sé escéptico pero aprende a escuchar* (Miguel Ruiz)
 
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    - Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-1. Consectetur adipiscing elit
-1. Integer molestie lorem at massa
-   1. Lorem ipsum dolor sit amet
-   1. Consectetur adipiscing elit
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ 'title text!')
-
-Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png 'Minion')
+
