@@ -4,7 +4,7 @@ pageTitle: Acompañamientos
 pageDescription: Breve descripción de los acompañamientos
 ---
 
-# h1 Para quiénes está dirigido mi acompañamiento
+# Para quiénes está dirigido mi acompañamiento
 
 ---
 
@@ -24,13 +24,13 @@ Como dice el Monstruo que viene a verme: “Lo importante no es lo que pienses, 
 También tenemos que tener presente que cuando decidamos responsabilizarnos por nuestra vida y comencemos a tomar decisiones, nuestro entorno se va a incomodar. ¿Qué quiere decir esto? Pues bien, imaginemos una mesa en la que hay piezas determinadas y cada una de ellas cumple una función, tiene un rol particular. Si quitamos una de esas piezas, el resto del montaje se reciente y tiene que hacer un esfuerzo por reubicarse para encontrar un nuevo equilibrio. Muchas veces, la salida más fácil es volver a traer esa pieza que se desplazó para que nada del resto tenga que modificarse. Y es justamente esto lo que tenemos que saber, cuando empecemos a cambiar nuestra vida, nuestras actitudes, es posible que quienes están a nuestro alrededor no sientan que es lo mejor para nosotr@s y quieran convencernos de volver a ser como antes. Es aquí donde tenemos que cerrar los ojos, respirar profundo e ir hacia dentro y preguntarnos: ¿para qué hago lo que hago? ¿es esta la vida que quiero tener? ¿qué tipo de vida quiero? Y en coherencia con las respuestas que surjan de aquí, debemos tomar las decisiones en consonancia. Me gustaría terminar diciendo que esto no es egoísmo como muchas veces vamos a escuchar, a esto se le llama **amor propio**…
 
 
-# h1 Cómo lo hago
+# Cómo lo hago
 
 ---
 
 Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos.
 
-## h2 Bioneuroemoción®
+## Bioneuroemoción®
 
 La Bioneuroemoción® (BNE) se podría definir como un hábito, un estilo de vida, un método que sirve para hacer un cambio de percepción y una inversión de pensamiento. Parte de la base de la conciencia de unidad, todos somos uno, estamos conectados, y lo que pasa a mi alrededor siempre tiene que ver conmigo.
 
@@ -38,7 +38,7 @@ La BNE nos invita a mirar nuestra sombra, aquello que hemos juzgado como negativ
 
 Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todos son para la BNE… Durante un acompañamiento, te voy a incomodar, te voy a desafiar y voy a desenmascarar las historias que te contás. En realidad voy a incomodar a tu ego, no a vos, ya que tu alma es mucho más que eso y quien nos mantiene pres@s en esas historias es nuestro querido ego. Solo así es que se puede cambiar la percepción. Y lo sé, eso duele y molesta, ya lo he pasado, puesto que uno no puede acompañar a otros si no se ha acompañado primero a sí mismo. Luego, podés decidir si me amás o me odiás, eso te lo dejo a vos  
 
-## h2 Flores de Bach
+## Flores de Bach
 
 Las Flores de Bach son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
 
@@ -46,7 +46,7 @@ Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me ha
 
 Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. Por eso siempre se deben tomar con consciencia y respetando la dosis dada.
 
-## h2 Astrología evolutiva
+## Astrología evolutiva
 
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y es hora de que utilicemos esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
