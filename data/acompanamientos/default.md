@@ -51,3 +51,5 @@ Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, 
 
 La Astrología también nos explica que vivimos en un mundo dual, y que cada signo, por ejemplo, tiene su energía baja y alta, y obvio que depende de nosotr@s en cuál queremos enfocarnos. Así por ejemplo, podemos elegir utilizar la energía Aries en su baja expresión y ser unos tiranos, o bien usar la alta energía que este signo nos ofrece y convertirnos en líderes que inspiren a otros. Todo depende de nosotros, de nuestra actitud, de nuestra voluntad, de nuestras decisiones.
 
+
+***Los acompañamientos pueden hacerse en español, inglés, italiano o portugués.***
