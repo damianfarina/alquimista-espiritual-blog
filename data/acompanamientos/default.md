@@ -23,6 +23,8 @@ También tenemos que tener presente que cuando decidamos responsabilizarnos por 
 
 
 
+
+
 # Cómo lo hago
 
 Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos.
