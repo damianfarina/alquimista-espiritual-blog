@@ -10,10 +10,10 @@ Para aquellas personas con voluntad y coraje, que les gusten los desafíos. Para
 
 Para ello, vamos a utilizar mi método **SOUL**:
 
-1. **S**uavizar la herida
-2. **O**bservarla y reconocerla
-3. **U**tilizarla para aprender
-4. **L**iberarla y seguir adelante
+- **S**uavizar la herida
+- **O**bservarla y reconocerla
+- **U**tilizarla para aprender
+- **L**iberarla y seguir adelante
 
 Como dice el Monstruo que viene a verme: “Lo importante no es lo que pienses, lo importante es lo que hagas”. Entonces vamos a hacer y ser: asertiv@s y auténtic@s.
 
