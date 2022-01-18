@@ -6,16 +6,14 @@ pageDescription: Breve descripción de los acompañamientos
 
 # Para quiénes está dirigido mi acompañamiento
 
----
-
 Para aquellas personas con voluntad y coraje, que les gusten los desafíos. Para quienes estén cansados de repetir las mismas historias y las mismas relaciones, y se digan a sí mismos “tiene que haber otra manera”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser. Vamos a dejar de apuntar a los demás con el dedo y vamos a girar el espejo hacia nuestro interior. Hay que estar preparad@s para dejar el victimismo atrás y empezar a tomar decisiones para cambiar nuestras vidas, ya que solo un@ mism@ puede hacerlo. Nosotr@s elegimos qué vida tener y cómo vivirla, todo lo demás es justificación, excusas, historias que nos contamos para no dar el paso. Sé que a veces cuesta, puede parecer duro, sentirse doloroso, pero no tiene por qué ser así, todo depende de nuestra percepción, y eso es justamente lo que vamos a cambiar.
 
 Para ello, vamos a utilizar mi método **SOUL**:
 
-**S**uavizar la herida
-**O**bservarla y reconocerla
-**U**tilizarla para aprender
-**L**iberarla y seguir adelante
+1. **S**uavizar la herida
+2. **O**bservarla y reconocerla
+3. **U**tilizarla para aprender
+4. **L**iberarla y seguir adelante
 
 Como dice el Monstruo que viene a verme: “Lo importante no es lo que pienses, lo importante es lo que hagas”. Entonces vamos a hacer y ser: asertiv@s y auténtic@s.
 
@@ -25,8 +23,6 @@ También tenemos que tener presente que cuando decidamos responsabilizarnos por 
 
 
 # Cómo lo hago
-
----
 
 Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos.
 
