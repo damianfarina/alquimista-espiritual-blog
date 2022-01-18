@@ -39,9 +39,9 @@ Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todo
 
 Las Flores de Bach son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
 
-Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me han acompañado durante procesos de sanación y he visto milagros suceder. Ellas nos conectan con la Madre Tierra, quien nos sana y nos proporciona todo aquello que necesitamos, es solo cuestión de querer verlo.
+Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me han acompañado durante mi proceso de sanación y he visto milagros suceder. Ellas nos conectan con la Madre Tierra, quien nos sana y nos proporciona todo aquello que necesitamos, es solo cuestión de querer verlo y aprovecharlo.
 
-Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. Por eso siempre se deben tomar con consciencia y respetando la dosis dada.
+Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. **Por eso siempre se deben tomar con consciencia y respetando la dosis dada.**
 
 ## Astrología evolutiva
 
