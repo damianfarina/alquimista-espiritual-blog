@@ -6,7 +6,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://alquimistaespiritual.es',
   siteRepo: 'https://github.com/damianfarina/alquimista-espiritual-blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/logo-light.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'nvfarina@gmail.com',
