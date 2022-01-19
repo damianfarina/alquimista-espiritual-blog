@@ -27,6 +27,5 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 > *Sé impecable con tus palabras, no te tomes nada personal, no hagas suposiciones, da tu 100 % en todo lo que hagas, sé escéptico pero aprende a escuchar* (Miguel Ruiz)
 
 
-## Images
 
 
