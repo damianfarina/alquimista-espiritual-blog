@@ -1,6 +1,6 @@
+import Image from 'next/image'
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
@@ -11,30 +11,36 @@ const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex flex-col justify-between h-screen">
-        <header className="flex items-center justify-between py-10">
+        <header className="flex items-center justify-between pt-2">
           <div>
-            <Link href="/" aria-label="Tailwind CSS Blog">
+            <Link href="/" aria-label="Home">
               <div className="flex items-center justify-between">
-                <div className="mr-3">
-                  <Logo />
+                <div className="hidden md:block">
+                  <Image
+                    src={siteMetadata.siteLogo}
+                    alt={siteMetadata.title}
+                    width={150}
+                    height={150}
+                  />
                 </div>
-                {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden h-6 text-2xl font-semibold sm:block">
-                    {siteMetadata.headerTitle}
-                  </div>
-                ) : (
-                  siteMetadata.headerTitle
-                )}
+                <div className="mt-1">
+                  <Image
+                    src={siteMetadata.headerTitle}
+                    alt={siteMetadata.title}
+                    width={200}
+                    height={50}
+                  />
+                </div>
               </div>
             </Link>
           </div>
-          <div className="flex items-center text-base leading-5">
+          <div className="flex items-center text-base leading-5 mt-7">
             <div className="hidden sm:block">
               {headerNavLinks.map((link) => (
                 <Link
                   key={link.title}
                   href={link.href}
-                  className="p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100 whitespace-nowrap"
+                  className="p-1 font-medium text-gray-900 sm:pl-2 md:pl-4 lg:pl-8 dark:text-gray-100 whitespace-nowrap"
                 >
                   {link.title}
                 </Link>

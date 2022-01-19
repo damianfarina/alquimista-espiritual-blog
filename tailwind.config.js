@@ -37,11 +37,15 @@ module.exports = {
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
+              fontSize: '1.875rem',
+              lineHeight: '2.25rem',
+              marginBottom: '1rem',
             },
             h2: {
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
+              marginTop: '0',
             },
             h3: {
               fontWeight: '600',

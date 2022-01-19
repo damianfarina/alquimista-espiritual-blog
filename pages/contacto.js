@@ -78,9 +78,26 @@ export default function Contact() {
               <div className="w-full px-3">
                 <label
                   className="dark:text-gray-100 block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                  htmlFor="phone"
+                >
+                  Teléfono
+                </label>
+                <input
+                  className="px-4 rounded-md dark:bg-black focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600 block w-full"
+                  id="phone"
+                  name="phone"
+                  type="text"
+                />
+              </div>
+            </div>
+
+            <div className="flex flex-wrap -mx-3 mb-6">
+              <div className="w-full px-3">
+                <label
+                  className="dark:text-gray-100 block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
                   htmlFor="message"
                 >
-                  Message
+                  Consulta
                 </label>
                 <textarea
                   className="py-3 leading-tight h-48 resize-y px-4 rounded-md dark:bg-black focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600 block w-full"
