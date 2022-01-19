@@ -3,6 +3,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { PageSEO } from '@/components/SEO'
 import { useForm } from '@formcarry/react'
 import PageTitle from '@/components/PageTitle'
+import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 
 export default function Contact() {
   const { state, submit } = useForm({
@@ -20,6 +21,7 @@ export default function Contact() {
         title={['Contacto', siteMetadata.author].join(' - ')}
         description={siteMetadata.description}
       />
+      <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
           <PageTitle>Contacto</PageTitle>

@@ -1,7 +1,6 @@
 const siteMetadata = {
   title: 'Alquimista Espiritual',
   author: 'Victoria Farina',
-  headerTitle: '/static/images/victoria-title.svg',
   description: 'Breve descripción del sitio',
   language: 'es-es',
   theme: 'system', // system, dark or light
