@@ -12,10 +12,6 @@ A los 21 años me hice Reikista y sentí un salto hacia otra dimensión, todo lo
 
 Durante los años siguientes me dediqué a sentir y percibir; la niñez que tuve me había ayudado mucho a potenciar la observación y la escucha flotante, y me fue fácil percibir a las personas. Comencé con la meditación, el yoga y el Ho’oponopono. Fue en esta etapa que descubrí la Biodescodificación que luego evolucionaría en la Bioneuroemoción®, las cuales me enseñaron a comprender lo que mi cuerpo quería comunicarme, y así logré sanar varios síntomas que me acompañaban de manera recurrente durante años. En los años en que viví en Brasil también estudié Chamanismo, el cual me regaló una conexión con la Madre Tierra que me emociona, y Espiritismo, que me respondió muchas preguntas que nada ni nadie había podido responderme hasta el momento. Luego de eso, cumplí otro sueño y fui a Tailandia a meditar con los monjes y experimentar en carne viva el Budismo y sus enseñanzas.
 
-
-                                                                    /static/images/yoga.jpg
-
-
 Siempre fui muy autodidacta, me encanta estudiar y mi buena lunita en géminis me acompaña en eso, junto con mi ascendente en Sagitario que me pide fervientemente experimentar el mundo, viajar, aprender para, finalmente, compartir. Y cuando llegué a Italia fue que mi conexión con la Astrología se hizo más fuerte; había llegado el momento de enfocarme en eso. Durante ese tiempo estudié Astrosofía mientras que a la vez seguía estudiando por mi cuenta con videos de diversos astrólogos que llamaban mi atención.
 
 En España me recibí de Acompañante en Bioneuroemoción® y me dediqué a estudiar las Flores de Bach, con lo cual sentí la maravillosa transmutación de la alquimia. Más de una década había pasado desde que inicié mi conexión con el todo cuando finalmente decidí que era hora de dedicarme a acompañar a las personas, y así fue que llegué hasta aquí. No he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante evolución y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer.
