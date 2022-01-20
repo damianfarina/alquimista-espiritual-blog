@@ -31,5 +31,3 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 ---
 
-Quisiera agradecer a Damián Farina por ayudarme en este proceso de creación del sitio; gracias hermanito, te amo :)
-
