@@ -20,9 +20,11 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 ## Volvé a tu esencia
 
-- *Sé el cambio que quieres ver en el mundo* (Mahatma Gandhi)
+- *Haz a los demás lo que te gustaría que te hicieran a ti* (Jesús)
 
-- *Lo importante no es lo que pienses, lo importante es lo que hagas* (Película Un monstruo viene a verme - 2016)
+- *El amor verdadero nace de la comprensión* (Buda)
+
+- *Sé el cambio que quieres ver en el mundo* (Mahatma Gandhi)
 
 - *Tú no puedes cambiar la situación, sí que puedes elegir cómo vivirla* (Enric Corbera)
 
@@ -30,6 +32,7 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 - *Lo siento, te perdono, gracias, te amo* (Ho'oponopono)
 
+- *Lo importante no es lo que pienses, lo importante es lo que hagas* (Película Un monstruo viene a verme - 2016)
 
 ---
 
