@@ -1,6 +1,6 @@
 ---
 name: Victoria Farina
-avatar: /static/images/avatar 2.jpg
+avatar: /static/images/avatar 2.JPG
 occupation: Alquimista Espiritual
 email: nvfarina@gmail.com
 ---
