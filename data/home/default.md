@@ -18,14 +18,18 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 ## Volvé a tu esencia
 
-> *Sé el cambio que quieres ver en el mundo* (Mahatma Gandhi)
->
-> *Lo importante no es lo que pienses, lo importante es lo que hagas* (Película Un monstruo viene a verme - 2016)
-> 
-> *Tú no puedes cambiar la situación, sí que puedes elegir cómo vivirla* (Enric Corbera)
->
-> *Sé impecable con tus palabras, no te tomes nada personal, no hagas suposiciones, da tu 100 % en todo lo que hagas, sé escéptico pero aprende a escuchar* (Miguel Ruiz)
+*Sé el cambio que quieres ver en el mundo* (Mahatma Gandhi)
+
+*Lo importante no es lo que pienses, lo importante es lo que hagas* (Película Un monstruo viene a verme - 2016)
+
+*Tú no puedes cambiar la situación, sí que puedes elegir cómo vivirla* (Enric Corbera)
+
+*Sé impecable con tus palabras, no te tomes nada personal, no hagas suposiciones, da tu 100 % en todo lo que hagas, sé escéptico pero aprende a escuchar* (Miguel Ruiz)
+
+*Lo siento, te perdono, gracias, te amo* (Ho'oponopono)
 
 
+---
 
+Quisiera agradecer a Damián Farina por ayudarme en este proceso de creación del sitio; gracias hermanito, te amo :)
 
