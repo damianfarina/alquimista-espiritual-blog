@@ -19,7 +19,13 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 ## Volvé a tu esencia
 
+#### Grande
+
 ![ocean](/static/images/ocean.jpeg)
+
+#### Pequeña
+
+<Image alt="ocean" src="/static/images/ocean.jpeg" width={256} height={128} />
 
 - _Haz a los demás lo que te gustaría que te hicieran a ti_ (Jesús)
 
