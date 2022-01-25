@@ -37,6 +37,10 @@ La BNE nos invita a mirar nuestra sombra, aquello que hemos juzgado como negativ
 
 Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todos son para la BNE… Durante un acompañamiento, te voy a incomodar, te voy a desafiar y voy a desenmascarar las historias que te contás. En realidad voy a incomodar a tu ego, no a vos, ya que tu alma es mucho más que eso y quien nos mantiene pres@s en esas historias es nuestro querido ego. Solo así es que se puede cambiar la percepción. Y lo sé, eso duele y molesta, ya lo he pasado, puesto que uno no puede acompañar a otros si no se ha acompañado primero a sí mismo. Luego, podés decidir si me amás o me odiás, eso te lo dejo a vos :)
 
+***"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones".*** (Enric Corbera)
+
+
+
 ## Flores de Bach
 
 Las Flores de Bach son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
@@ -45,11 +49,16 @@ Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me ha
 
 Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. **Por eso siempre se deben tomar con consciencia y respetando la dosis dada.**
 
+***"La salud depende de que estemos en armonía con nuestra alma".*** (Edward Bach)
+
+
 ## Astrología psicológica evolutiva
 
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y es hora de que utilicemos esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
 La Astrología también nos explica que vivimos en un mundo dual, y que cada signo, por ejemplo, tiene su energía baja y alta, y obvio que depende de nosotr@s en cuál queremos enfocarnos. Así por ejemplo, podemos elegir utilizar la energía Aries en su baja expresión y ser unos tiranos, o bien usar la alta energía que este signo nos ofrece y convertirnos en líderes que inspiren a otros. Todo depende de nosotros, de nuestra actitud, de nuestra voluntad, de nuestras decisiones.
 
+***La astrología representa la suma de todos los conocimientos psicológicos de la antigüedad*** (Carl Gustav Jung)
 
-***Los acompañamientos pueden hacerse en español, inglés, italiano o portugués.***
+
+**Los acompañamientos pueden hacerse en español, inglés, italiano o portugués.**
