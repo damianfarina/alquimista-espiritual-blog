@@ -45,7 +45,7 @@ Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me ha
 
 Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. **Por eso siempre se deben tomar con consciencia y respetando la dosis dada.**
 
-## Astrología evolutiva
+## Astrología psicológica evolutiva
 
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y es hora de que utilicemos esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
