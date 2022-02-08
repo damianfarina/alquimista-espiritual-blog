@@ -17,6 +17,9 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 ---
 
+<Image alt="ocean" src="/static/images/Home/CA6A2800.jpg" width={300} height={450} />
+
+
 ## Volvé a tu esencia
 
 
