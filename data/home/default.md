@@ -35,6 +35,5 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 - _Lo siento, te perdono, gracias, te amo_ (Ho'oponopono)
 
-- _Lo importante no es lo que pienses, lo importante es lo que hagas_ (Película Un monstruo viene a verme - 2016)
 
 ---
