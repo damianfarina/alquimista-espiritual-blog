@@ -33,7 +33,7 @@ Este otro ejemplo es personal, me encontré con una persona que hablaba demasiad
 
 Esto me recuerda la famosa “media naranja” que escuché muchísimas veces, durante un tiempo estaba en total desacuerdo con esta frase, decía que cada uno tenía que ser una naranja completa para poder rodar y no tener que depender de otro para estar completa. Pero luego entendí que simplemente había malinterpretado el significado de este dicho. Siempre estamos frente a nuestra “media naranja” porque esa persona nos permite ver lo que nos falta integrar, no es que nos completa, porque ya tenemos todo dentro, sino que es la que nos ayuda a poder verlo. Esa persona que tengo delante me muestra aquello que no puedo ver en mí, sea algo “positivo” o “negativo”, con el único objetivo de que logre finalmente reconocerlo en mí misma.
 
-Entonces, recordemos que siempre estamos delante de nuestro “espejo”, en una polaridad u otra, y el objetivo es lograr el equilibrio de ambas, saber que no hay nada malo ni bueno, y que en la medida en que dejemos de juzgar todo a nuestro alrededor, vamos a poder integrar ambas polaridades, luz y sombra, ya que somos ambas cosas…
+Entonces, recordemos que siempre estamos delante de nuestro “espejo”, en una polaridad u otra, y el objetivo es lograr el equilibrio de ambas, saber que no hay nada malo ni bueno, y que en la medida en que dejemos de juzgar todo a nuestro alrededor, vamos a poder integrar ambas polaridades, luz y sombra, ya que somos ambas cosas. Yo ya me estoy amigando con la mía, de hecho hasta le he dado un espacio en mi página... ¿y vos? ¿Aceptás la tuya?
 
 
 <Image alt="ocean" src="/static/images/Blog/DSCN0153.JPG" width={300} height={450} />
