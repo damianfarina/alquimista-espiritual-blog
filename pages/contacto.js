@@ -78,7 +78,7 @@ export default function Contact({ settings }) {
                   className="dark:text-gray-100 block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
                   htmlFor="email"
                 >
-                  E-mail
+                  Correo electrónico
                 </label>
                 <input
                   className="px-4 rounded-md dark:bg-gray-700 focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600 block w-full"
