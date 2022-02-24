@@ -19,9 +19,6 @@ Mi propuesta es acompañarte a que conviertas tu plomo en oro, que logres cambia
 
 ---
 
-<Image alt="ocean" src="/static/images/Home/CA6A2800.jpg" width={300} height={450} />
-
-
 ## Volvé a tu esencia
 
 
