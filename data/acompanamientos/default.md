@@ -49,9 +49,15 @@ Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todo
 
 Las Flores de Bach son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
 
+<Image alt="ocean" src="/static/images/Acompañamiento/IMG_8181.JPG" width={450} height={300} />
+
 Lo que he sentido es que gracias a ellas pude dar un salto de consciencia, me han acompañado durante mi proceso de sanación y he visto milagros suceder. Ellas nos conectan con la Madre Tierra, quien nos sana y nos proporciona todo aquello que necesitamos, es solo cuestión de querer verlo y aprovecharlo.
 
+<Image alt="ocean" src="/static/images/Acompañamiento/20220310_104433.jpg" width={450} height={300} />
+
 Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos guardado debajo de la alfombra. **Por eso siempre se deben tomar con consciencia y respetando la dosis dada.**
+
+<Image alt="ocean" src="/static/images/Acompañamiento/20220310_104231.jpg" width={450} height={300} />
 
 ***"La salud depende de que estemos en armonía con nuestra alma".*** (Edward Bach)
 
@@ -61,6 +67,8 @@ Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a e
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y es hora de que utilicemos esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
 La Astrología también nos explica que vivimos en un mundo dual, y que cada signo, por ejemplo, tiene su energía baja y alta, y obvio que depende de nosotr@s en cuál queremos enfocarnos. Así por ejemplo, podemos elegir utilizar la energía Aries en su baja expresión y ser unos tiranos, o bien usar la alta energía que este signo nos ofrece y convertirnos en líderes que inspiren a otros. Todo depende de nosotros, de nuestra actitud, de nuestra voluntad, de nuestras decisiones. Y es por eso que durante el acompañamiento nos enfocaremos en tu **propósito de vida**, de manera que podás cambiar tu vida y realizar aquello que has venido a hacer.
+
+<Image alt="ocean" src="/static/images/Acompañamiento/astrologia.jpg" width={450} height={300} />
 
 ***"La astrología representa la suma de todos los conocimientos psicológicos de la antigüedad".*** (Carl Gustav Jung)
 

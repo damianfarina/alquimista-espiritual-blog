@@ -44,4 +44,4 @@ Siempre estamos frente a nuestra “media naranja” porque esa persona nos perm
 Entonces, recordemos que siempre estamos delante de nuestro “espejo”, en una polaridad u otra, y el objetivo es lograr el equilibrio de ambas, saber que no hay nada malo ni bueno, y que en la medida en que dejemos de juzgar todo a nuestro alrededor, vamos a poder integrar ambas polaridades, luz y sombra, ya que somos ambas cosas. Yo ya me estoy amigando con la mía, de hecho hasta le he dado un espacio en mi página... ¿y vos? ¿Aceptás la tuya?
 
 
-<Image alt="ocean" src="/static/images/Blog/DSCN0153.JPG" width={300} height={450} />
+<Image alt="ocean" src="/static/images/Blog/20220310_103316.jpg" width={450} height={300} />
