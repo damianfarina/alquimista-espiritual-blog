@@ -45,9 +45,9 @@ Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todo
 
 
 
-## Flores de Bach
+## Terapia floral
 
-Las Flores de Bach son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
+Las Flores son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
 
 <Image alt="ocean" src="/static/images/Acompañamiento/IMG_8181.JPG" width={450} height={300} />
 
