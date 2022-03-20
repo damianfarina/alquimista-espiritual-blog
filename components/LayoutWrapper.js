@@ -15,26 +15,6 @@ const LayoutWrapper = ({ children }) => {
           <div>
             <Link href="/" aria-label="Home">
               <div className="flex items-center justify-between">
-                <div className="sm:absolute md:static md:block w-20">
-                  <div className="dark:hidden">
-                    <Image
-                      src="/static/images/logo-light.png"
-                      alt={siteMetadata.title}
-                      width={1000}
-                      height={1556}
-                      layout="responsive"
-                    />
-                  </div>
-                  <div className="hidden dark:block">
-                    <Image
-                      src="/static/images/logo-dark.png"
-                      alt={siteMetadata.title}
-                      width={1000}
-                      height={1556}
-                      layout="responsive"
-                    />
-                  </div>
-                </div>
                 <div className="mt-1 dark:hidden">
                   <Image
                     src="/static/images/victoria-title.svg"
