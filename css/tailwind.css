@@ -23,5 +23,13 @@ input:-webkit-autofill:focus {
 body {
   background-image: url('/static/images/fondo.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 30%;
+  background-position: -74px -16px;
+}
+
+@media (max-width: 900px) {
+  body {
+    background-size: 59%;
+    background-position: 0px -16px;
+  }
 }
