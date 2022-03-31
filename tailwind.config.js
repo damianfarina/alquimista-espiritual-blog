@@ -35,21 +35,22 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             h1: {
-              fontWeight: '700',
+              fontWeight: '500',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
-              fontSize: '1.875rem',
+              fontSize: '1.375rem',
               lineHeight: '2.25rem',
               marginBottom: '1rem',
             },
             h2: {
-              fontWeight: '700',
+              fontWeight: '500',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
+              fontSize: '1.25rem',
               marginTop: '0',
             },
             h3: {
-              fontWeight: '600',
+              fontWeight: '500',
               color: theme('colors.gray.900'),
             },
             'h4,h5,h6': {
