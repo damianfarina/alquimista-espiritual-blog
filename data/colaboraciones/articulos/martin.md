@@ -26,4 +26,6 @@ Te invito a que convidemos amor...
 
 <Image alt="ocean" src="/static/images/Colaboraciones/mate.jpg" width={310} height={300} />
 
-*Martín Bado* - @convida.alimento
+*Martín Bado* - Chef en movimiento
+
+@convida.alimento

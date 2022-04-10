@@ -23,6 +23,6 @@ La naturaleza nos da lo que necesitamos para nutrir nuestro cuerpo por dentro y 
 Gracias miles.
 
 
-<Image alt="ocean" src="/static/images/Colaboraciones/nati.jpeg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/Colaboraciones/nati.jpeg" width={400} height={450} />
 
 *Natalia Giuliano* - Amante de la vida y emprendedora

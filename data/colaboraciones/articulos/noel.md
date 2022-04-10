@@ -32,9 +32,9 @@ Si algo bueno tuvo la pandemia fue este hermoso cambio de sistema educativo y de
 *Noel Giacobone* - Mamá consciente y dedicada
 
 
-<Image alt="ocean" src="/static/images/Colaboraciones/escuela1.jpeg" width={300} height={450} />
+<Image alt="ocean" src="/static/images/Colaboraciones/escuela1.jpeg" width={350} height={450} />
 
-<Image alt="ocean" src="/static/images/Colaboraciones/escuela3.jpeg" width={320} height={450} />
+<Image alt="ocean" src="/static/images/Colaboraciones/escuela3.jpeg" width={350} height={450} />
 
 <Image alt="ocean" src="/static/images/Colaboraciones/escuela2.jpeg" width={450} height={300} />
 
