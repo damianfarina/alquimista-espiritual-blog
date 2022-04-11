@@ -33,7 +33,7 @@ export default function Colaboraciones({ posts, initialDisplayPosts, pagination,
           <PageTitle>Colaboraciones</PageTitle>
         </div>
         <div className="container pt-8">
-          <div className="w-full max-w-lg">
+          <div className="w-full">
             <MDXLayoutRenderer
               layout={'SimpleLayout'}
               mdxSource={mdxSource}
