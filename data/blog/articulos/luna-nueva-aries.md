@@ -23,3 +23,6 @@ Agradezco de corazón tener la oportunidad de poder abrazar a esas personas que 
 
 <Image alt="ocean" src="/static/images/Blog/luna-aries2.jpeg" width={250} height={450} />
 
+<Image alt="ocean" src="/static/images/Blog/Vicky.jpeg" width={250} height={250} />
+
+<Image alt="ocean" src="/static/images/Blog/Sil.jpeg" width={250} height={250} />
