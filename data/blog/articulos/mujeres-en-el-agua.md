@@ -25,9 +25,9 @@ El taller es **GRATUITO** y será por Internet, de 20 a 22 horas de España. Tam
 <Image alt="ocean" src="/static/images/Blog/Vicky.jpeg" width={250} height={250} />
 
 
-<Image alt="ocean" src="/static/images/Blog/patri/taller.jpeg" width={200} height={200} />
+<Image alt="ocean" src="/static/images/Blog/patri/mujeres.jpeg" width={230} height={230} />
 
 
 
-<Image alt="ocean" src="/static/images/Blog/patri/patri.jpg" width={215} height={215} />
+<Image alt="ocean" src="/static/images/Blog/patri/patri.jpg" width={230} height={230} />
 
