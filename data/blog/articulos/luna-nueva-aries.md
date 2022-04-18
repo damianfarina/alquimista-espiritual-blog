@@ -8,7 +8,7 @@ summary: 'Reconéctate con tu intuición y lánzate a la vida'
 
 # **Luna nueva en Aries**
 
-El 31 de marzo y el 1 de abril pasados, llevé a cabo el taller de luna nueva en Aries por Internet y de manera presencial junto con mi colega y amiga **Silvina Garrido**. Fue una experiencia maravillosa en la que pudimos compartir con personas de diferentes partes del mundo y abrazarnos un poquito así fuera desde lejos.
+El 31 de marzo y el 1 de abril pasados, llevé a cabo el taller de luna nueva en Aries por Internet y de manera presencial junto con mi colega y amiga **Silvina Garrido**, acompañante en Bioneuroemoción y profesora de Yoga Kundalini. Fue una experiencia maravillosa en la que pudimos compartir con personas de diferentes partes del mundo y abrazarnos un poquito así fuera desde lejos.
 
 Básicamente, la idea fue comenzar a trabajar nuestros escudos emocionales a partir de nuestra luna astrológica, ir reconociendo actitudes y comportamientos que tenemos y que muchas veces no entendemos de dónde surgen o ni siquiera nos damos cuenta de que lo hacemos, para poder soltar todo eso y sembrar nuevas semillas, con enfoque en la vida que queremos realmente tener.
 
@@ -20,9 +20,12 @@ Agradezco de corazón tener la oportunidad de poder abrazar a esas personas que 
 
 
 
-
-<Image alt="ocean" src="/static/images/Blog/luna-aries2.jpeg" width={250} height={450} />
-
 <Image alt="ocean" src="/static/images/Blog/Vicky.jpeg" width={250} height={250} />
 
+
+<Image alt="ocean" src="/static/images/Blog/luna-aries.jpeg" width={250} height={250} />
+
+
+
 <Image alt="ocean" src="/static/images/Blog/Sil.jpeg" width={250} height={250} />
+
