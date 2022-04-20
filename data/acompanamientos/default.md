@@ -6,7 +6,7 @@ pageDescription: Breve descripción de los acompañamientos
 
 # Para quiénes está dirigido mi acompañamiento
 
-Para aquellas personas con voluntad y coraje, que les gusten los desafíos. Para quienes estén cansados de repetir las mismas historias y las mismas relaciones, y se digan a sí mismos “tiene que haber otra manera”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser. 
+Para aquellas personas con voluntad y coraje, que les gusten los desafíos. Para quienes estén cansad@s de repetir las mismas historias y las mismas relaciones, y se digan a sí mism@s “tiene que haber otra manera”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser. 
 
 Vamos a dejar de apuntar a los demás con el dedo y vamos a girar el espejo hacia nuestro interior. Hay que estar preparad@s para dejar el victimismo atrás y empezar a tomar decisiones para cambiar nuestras vidas, ya que solo un@ mism@ puede hacerlo. Nosotr@s elegimos qué vida tener y cómo vivirla, todo lo demás es justificación, excusas, historias que nos contamos para no dar el paso. Sé que a veces cuesta, puede parecer duro, sentirse doloroso, pero no tiene por qué ser así, todo depende de nuestra percepción, y eso es justamente lo que vamos a cambiar.
 
@@ -31,7 +31,7 @@ Y es justamente esto lo que tenemos que saber, cuando empecemos a cambiar nuestr
 
 # Cómo lo hago
 
-Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que siempre esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
+Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que siempre esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo. Y la idea es enfocarnos en tu propósito de vida, vamos a trabajar junt@s para que logres tener la vida que querés tener.
 
 ## **Bioneuroemoción®**
 

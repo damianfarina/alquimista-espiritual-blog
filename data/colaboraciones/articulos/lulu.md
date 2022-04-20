@@ -21,4 +21,4 @@ Desde mi experiencia personal, recomiendo a todas las personas, sin importar la 
 
 <Image alt="ocean" src="/static/images/Colaboraciones/lulu.jpeg" width={320} height={450} />
 
-*Luciana Combe* - Actriz
+*Luciana Combe* - Actriz en crecimiento
