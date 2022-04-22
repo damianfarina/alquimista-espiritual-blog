@@ -31,7 +31,7 @@ Y es justamente esto lo que tenemos que saber, cuando empecemos a cambiar nuestr
 
 # Cómo lo hago
 
-Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que siempre esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo. Y la idea es enfocarnos en tu propósito de vida, vamos a trabajar junt@s para que logres tener la vida que querés tener.
+Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo. Pero no nos quedaremos aquí, la idea es trabajar en tu propósito de vida para que logres tener la vida que deseas.
 
 ## **Bioneuroemoción®**
 
