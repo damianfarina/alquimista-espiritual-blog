@@ -18,7 +18,7 @@ Patri nos hablará de lo que considera que es punto fundamental para entender la
 
 Además, nos dará una clave para que podamos conectar con lo más profundo de nuestro ser mediante la escritura automática, ¡así es que quienes deseen participar deben tener a mano lápiz y papel!
 
-El taller es **GRATUITO** y será por Internet, de 20 a 22 horas de España. También tendrás la oportunidad de comprar el libro de Patri, ya sea físico o versión virtual. Si estás leyendo esto y te interesa participar, podés enviarme un mensaje y te comparto el enlace para que te sumes, ¡no te lo pierdas! :)
+El taller es **GRATUITO** y será por Internet, de 20 a 22 horas de España. También tendrás la oportunidad de comprar el libro de Patri, ya sea físico o versión virtual. Si estás leyendo esto y te interesa participar, ***podés enviarme un mensaje desde la pestaña Contacto para reservar tu lugar y te compartiré el enlace para que te sumes el día del taller***, ¡no te lo pierdas! :)
 
 
 
