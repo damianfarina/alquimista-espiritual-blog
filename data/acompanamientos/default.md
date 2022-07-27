@@ -31,11 +31,11 @@ Y es justamente esto lo que tenemos que saber, cuando empecemos a cambiar nuestr
 
 # Cómo lo hago
 
-Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo. Pero no nos quedaremos aquí, la idea es trabajar en tu propósito de vida para que logres tener la vida que deseas.
+Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. La sesión dura una hora y media aproximadamente. Partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar y buscamos la raíz del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo. Pero no nos quedaremos ahí, la idea es trabajar en tu propósito de vida para que logres tener la vida que deseas.
 
 ## **Bioneuroemoción®**
 
-La Bioneuroemoción® (BNE) se podría definir como un hábito, un estilo de vida, un método que sirve para hacer un cambio de percepción y una inversión de pensamiento. Parte de la base de la conciencia de unidad, todos somos uno, estamos conectados, y lo que pasa a mi alrededor siempre tiene que ver conmigo.
+La Bioneuroemoción® (BNE) se podría definir como un hábito, un estilo de vida, un método que sirve para hacer un cambio de percepción y una inversión de pensamiento. Parte de la base de la conciencia de unidad, tod@s somos un@, estamos conectad@s, y lo que pasa a mi alrededor siempre tiene que ver conmigo.
 
 La BNE nos invita a mirar nuestra **sombra**, aquello que hemos juzgado como negativo o malo y hemos “escondido” debajo de la alfombra. Digo que escondimos debajo de la alfombra porque vivimos en un mundo dual y siempre hay dos polaridades, la sombra no puede desaparecer porque sino no habría luz tampoco. Entonces, todo aquello que queremos olvidar, esconder, hacer de cuenta que no existe o que no pasó en realidad va a parar a nuestro inconsciente y comienza a proyectarse en nuestro entorno con la finalidad de que lo veamos y podamos integrarlo.
 
@@ -47,7 +47,7 @@ Pero tal y como dice mi mentor Enric Corbera, la BNE es para todos, pero no todo
 
 ## **Terapia floral**
 
-Las Flores son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotros, no afuera.
+Las Flores son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotr@s, no afuera.
 
 <Image alt="ocean" src="/static/images/Acompañamiento/IMG_8181.JPG" width={450} height={300} />
 
@@ -66,7 +66,7 @@ Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a e
 
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y es hora de que utilicemos esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
-La Astrología también nos explica que vivimos en un mundo dual, y que cada signo, por ejemplo, tiene su energía baja y alta, y obvio que depende de nosotr@s en cuál queremos enfocarnos. Así por ejemplo, podemos elegir utilizar la energía Aries en su baja expresión y ser unos tiranos, o bien usar la alta energía que este signo nos ofrece y convertirnos en líderes que inspiren a otros. Todo depende de nosotros, de nuestra actitud, de nuestra voluntad, de nuestras decisiones. Y es por eso que durante el acompañamiento nos enfocaremos en tu **propósito de vida**, de manera que podás cambiar tu vida y realizar aquello que has venido a hacer.
+La Astrología también nos explica que vivimos en un mundo dual, y que cada signo, por ejemplo, tiene su energía baja y alta, y obvio que depende de nosotr@s en cuál queremos enfocarnos. Así por ejemplo, podemos elegir utilizar la energía Aries en su baja expresión y ser unos tiranos, o bien usar la alta energía que este signo nos ofrece y convertirnos en líderes que inspiren a otros. Todo depende de nosotr@s, de nuestra actitud, de nuestra voluntad, de nuestras decisiones. Y es por eso que durante el acompañamiento nos enfocaremos en tu **propósito de vida**, de manera que podás cambiar tu vida y realizar aquello que has venido a hacer.
 
 <Image alt="ocean" src="/static/images/Acompañamiento/astrologia.jpg" width={450} height={300} />
 
