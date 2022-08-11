@@ -35,10 +35,6 @@ La experiencia fue maravillosa… Georgina y Laura nos explicaban el proceso, no
 
 
 
-<Image alt="ocean" src="/static/images/Blog/cherry/bowl.JPG" width={450} height={300} />
-
-
-
 En tanto caminábamos por los árboles, Laura nos preguntó algo que yo ya venía percibiendo, pero que no me había percatado con consciencia. Ella dijo: ¿qué les hace sentir el árbol? Nos pidió que nos metiéramos dentro de él y simplemente sintiéramos lo que nos transmitía. Yo con verlo de lejos mientras me acercaba ya había sentido una incomodidad profunda en el pecho. De solo observar todo ese desorden de ramas, hojas y flores (por más que son hermosas), me provocó mucho malestar, hasta me sentía mareada en algún punto, y entonces se lo comuniqué. El árbol no tenía una estructura normal, las ramas salían por todos lados y hacia todas las direcciones, algunas iban hacia abajo y tocaban el suelo, otras se chocaban entre ellas en el aire. Mirarlo me dio mucha impaciencia y ansiedad.
 
 
@@ -48,7 +44,7 @@ En tanto caminábamos por los árboles, Laura nos preguntó algo que yo ya vení
 Ella riendo me dijo: “claro, es exactamente eso lo que provoca”. Por eso el Dr. Bach eligió esta flor para el miedo, pues si lo observamos bien, el árbol ya muestra esas características de descontrol y, al tomar la esencia, permite encontrar paz y equilibrio que antes no se tiene. Eso es lo que llamamos **“signatura”** de la planta, la forma que tiene, desde sus raíces, el tallo, las hojas, las flores, los frutos, todo nos habla de cómo es la planta y eso nos permite asociarlas con cómo se está sintiendo una persona o qué personalidad ya trae. Había estudiado esto en libros, pero estar ahí, experimentarlo en mi propio cuerpo y vivirlo desde la planta fue todo un descubrimiento.
 
 
-<Image alt="ocean" src="/static/images/Blog/cherry/caminar.JPG" width={450} height={300} />
+<Image alt="ocean" src="/static/images/Blog/cherry/bowl.JPG" width={450} height={300} />
 
 
 Luego de recoger las flores, volvimos al laboratorio para llevar a cabo la preparación y, mientras esperábamos, compartimos experiencias e infusiones de la madre tierra. 
