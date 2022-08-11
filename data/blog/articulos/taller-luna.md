@@ -24,7 +24,9 @@ Durante el taller, nos habló de lo que la luna representa en nuestras vidas; no
 <Image alt="ocean" src="/static/images/Blog/Luna/20220519_182141.jpg" width={450} height={350} />
 
 
-Así como dice la famosa canción del toro que se enamora de la luna, yo soy una taurina muy enamorada de la luna, la estudio, la observo, me emociono al verla brillar en la noche, la encuentro incluso durante el día… Aprender lo que la luna significa en mi vida me ha ayudado a comprenderme a niveles que nunca antes había imaginado, aquellos escudos emocionales que surgen cuando tengo que relacionarme con alguien, mi amor y dedicación por el estudio y el conocimiento, la ansiedad que me provoca estar sentada frente a una computadora sola sin hablar todo el día, incluso la incapacidad que tenía de hablar y expresarme, todo eso pude comprenderlo a partir del estudio de mi luna y fue totalmente revelador.
+Así como dice la famosa canción del toro que se enamora de la luna, yo soy una taurina muy enamorada de la luna, la estudio, la observo, me emociono al verla brillar en la noche, la encuentro incluso durante el día… 
+
+Aprender lo que la luna significa en mi vida me ha ayudado a comprenderme a niveles que nunca antes había imaginado, aquellos escudos emocionales que surgen cuando tengo que relacionarme con alguien, mi amor y dedicación por el estudio y el conocimiento, la ansiedad que me provoca estar sentada frente a una computadora sola sin hablar todo el día, incluso la incapacidad que tenía de hablar y expresarme, todo eso pude comprenderlo a partir del estudio de mi luna y fue totalmente revelador.
 
 
 Siendo nuestro mundo emocional un aspecto fundamental de nuestra esencia y habiendo comprobado conmigo misma que sí funciona, he decidido utilizar en mis sesiones la luna astrológica de mis consultantes como recurso para que se conozcan mejor; lo que hago es trabajar sobre ella con flores y con toma de conciencia por parte de la persona para que esta pueda empezar a reconocer cuándo se activa su luna y que esos escudos vayan cayendo poco a poco… 
