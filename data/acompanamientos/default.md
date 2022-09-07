@@ -73,4 +73,4 @@ La Astrología también nos explica que vivimos en un mundo dual, y que cada sig
 ***"La astrología representa la suma de todos los conocimientos psicológicos de la antigüedad"*** (Carl Gustav Jung)
 
 
-**Los acompañamientos pueden hacerse en español, inglés, italiano o portugués.**
+**Los [acompañamientos](/contacto) pueden hacerse en español, inglés, italiano o portugués.**
