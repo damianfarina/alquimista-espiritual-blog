@@ -5,7 +5,7 @@ occupation: Alquimista Espiritual
 email: nvfarina@gmail.com
 ---
 
-Mi nombre es Victoria. Podría hablar de todas las etiquetas que me he puesto en esta vida, pero básicamente soy un espíritu encarnado que busca la evolución de la consciencia. Desde muy chica busco respuestas a preguntas como qué hago acá, de dónde vengo, por qué nací acá y no allá, cuál es mi propósito, etc. Si hoy miro hacia atrás, puedo reconocer que siempre tuve muchas señales en mi camino que no sabía interpretar en el momento, pero que hoy tienen todo el sentido.
+Mi nombre es Victoria. Podría hablar de todas las etiquetas que me he puesto en esta vida, pero básicamente soy un espíritu encarnado que busca la expansión de la consciencia. Desde muy chica busco respuestas a preguntas como qué hago acá, de dónde vengo, por qué nací acá y no allá, cuál es mi propósito, etc. Si hoy miro hacia atrás, puedo reconocer que siempre tuve muchas señales en mi camino que no sabía interpretar en el momento, pero que hoy tienen todo el sentido.
 
 Siempre me interesó comprender la energía, me era fácil sentirla, reconocerla. Los astros también siempre estuvieron ahí, recuerdo un año pedir un telescopio a los Reyes Magos para ver las estrellas de cerca, puesto que mi sueño de cada noche era volar por el universo. A los 12 años más o menos empecé a escuchar acerca de la Astrología y eso me fascinó; recuerdo que apenas apareció Internet, buscaba lo que significaba cada signo y me hacía notas intentando comprender algo que todavía no estaba lista para comprender.
 
@@ -28,7 +28,7 @@ Siempre fui muy autodidacta, me encanta estudiar y mi buena lunita en géminis m
 <Image alt="ocean" src="/static/images/acerca-de/zodiaco.jpg" width={450} height={300} />
 
 
-En España me recibí de **Acompañante en Bioneuroemoción®**, **lectora de aura** y me dediqué a estudiar la **terapia floral**, con lo cual sentí la maravillosa transmutación de la alquimia. Más de una década había pasado desde que inicié mi conexión con el todo cuando finalmente decidí que era hora de dedicarme a acompañar a las personas, y así fue que llegué hasta aquí. Nunca había pensado en ser terapeuta, de hecho, todo lo que hice fue para mí y, por eso, sé que funciona, he experimentado cada una de las técnicas conmigo misma. Y no he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante evolución y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer...
+En España me recibí de **Acompañante en Bioneuroemoción®**, **lectora de aura** y me dediqué a estudiar la **terapia floral**, con lo cual sentí la maravillosa transmutación de la alquimia. Más de una década había pasado desde que inicié mi conexión con el todo cuando finalmente decidí que era hora de dedicarme a acompañar a las personas, y así fue que llegué hasta aquí. Nunca había pensado en ser terapeuta, de hecho, todo lo que hice fue para mí y, por eso, sé que funciona, he experimentado cada una de las técnicas conmigo misma. Y no he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante expansión y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer...
 
 
 <Image alt="ocean" src="/static/images/acerca-de/CA6A2281.jpg" width={450} height={300} />
