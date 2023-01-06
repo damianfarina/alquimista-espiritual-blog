@@ -10,6 +10,8 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'nvfarina@gmail.com',
+  instagram: 'https://www.instagram.com/alquimistaespiritual',
+  telegram: 'https://t.me/+FAsF6NBDMnU5NDQ8',
   // github: 'https://github.com/alquimistaespiritual',
   // twitter: 'https://twitter.com/alquimistaespiritual',
   // facebook: 'https://facebook.com/alquimistaespiritual',
