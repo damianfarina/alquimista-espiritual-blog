@@ -1,6 +1,5 @@
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import siteMetadata from '@/data/siteMetadata'
-import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
@@ -11,8 +10,8 @@ import PageTitle from '@/components/PageTitle'
 export const POSTS_PER_PAGE = 5
 
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('colaboraciones/articulos')
-  const settings = await getFileBySlug('colaboraciones', ['default'])
+  const posts = await getAllFilesFrontMatter('servicios')
+  const settings = await getFileBySlug('', ['servicios'])
   const initialDisplayPosts = posts.slice(0, POSTS_PER_PAGE)
   const pagination = {
     currentPage: 1,
@@ -22,15 +21,15 @@ export async function getStaticProps() {
   return { props: { initialDisplayPosts, posts, pagination, settings } }
 }
 
-export default function Colaboraciones({ posts, initialDisplayPosts, pagination, settings }) {
+export default function Servicios({ posts, initialDisplayPosts, pagination, settings }) {
   const { mdxSource, frontMatter } = settings
   return (
     <>
-      <PageSEO title={`Colaboraciones - ${siteMetadata.author}`} description={siteMetadata.description} />
+      <PageSEO title={`Servicios - ${siteMetadata.author}`} description={siteMetadata.description} />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
-          <PageTitle>Colaboraciones</PageTitle>
+          <PageTitle>Servicios</PageTitle>
         </div>
         <div className="container pt-8">
           <div className="w-full">
@@ -47,7 +46,7 @@ export default function Colaboraciones({ posts, initialDisplayPosts, pagination,
                 title={post.title}
                 description={post.description}
                 imgSrc={post.imgSrc}
-                href={`/colaboraciones/articulos/${post.slug}`}
+                href={`/servicios/${post.slug}`}
               />
             ))}
           </div>

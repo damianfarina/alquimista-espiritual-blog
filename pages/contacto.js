@@ -54,6 +54,7 @@ export default function Contact({ settings }) {
                   id="first-name"
                   name="first-name"
                   type="text"
+                  required
                 />
               </div>
               <div className="w-full md:w-1/2 px-3">
@@ -68,6 +69,7 @@ export default function Contact({ settings }) {
                   id="last-name"
                   name="last-name"
                   type="text"
+                  required
                 />
               </div>
             </div>
@@ -85,6 +87,40 @@ export default function Contact({ settings }) {
                   id="email"
                   name="email"
                   type="email"
+                  required
+                />
+              </div>
+            </div>
+
+            <div className="flex flex-wrap -mx-3 mb-6">
+              <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+                <label
+                  className="dark:text-gray-100 block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                  htmlFor="country"
+                >
+                  País de residencia
+                </label>
+                <input
+                  className="px-4 rounded-md dark:bg-gray-700 focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600 block w-full"
+                  id="country"
+                  name="country"
+                  type="text"
+                  required
+                />
+              </div>
+              <div className="w-full md:w-1/2 px-3">
+                <label
+                  className="dark:text-gray-100 block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                  htmlFor="city"
+                >
+                  Ciudad de residencia
+                </label>
+                <input
+                  className="px-4 rounded-md dark:bg-gray-700 focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600 block w-full"
+                  id="city"
+                  name="city"
+                  type="text"
+                  required
                 />
               </div>
             </div>
@@ -102,6 +138,7 @@ export default function Contact({ settings }) {
                   id="phone"
                   name="phone"
                   type="text"
+                  required
                 />
               </div>
             </div>
