@@ -26,7 +26,10 @@ export default function Colaboraciones({ posts, initialDisplayPosts, pagination,
   const { mdxSource, frontMatter } = settings
   return (
     <>
-      <PageSEO title={`Colaboraciones - ${siteMetadata.author}`} description={siteMetadata.description} />
+      <PageSEO
+        title={`Colaboraciones - ${siteMetadata.author}`}
+        description={siteMetadata.description}
+      />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">

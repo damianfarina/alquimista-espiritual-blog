@@ -22,6 +22,8 @@ public/sitemap.xml
 
 # misc
 .DS_Store
+desktop.ini
+Thumb.db
 
 # debug
 *.log

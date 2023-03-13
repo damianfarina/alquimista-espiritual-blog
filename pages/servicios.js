@@ -7,25 +7,21 @@ import { getFileBySlug } from '@/lib/mdx'
 import Card from '@/components/Card'
 import PageTitle from '@/components/PageTitle'
 
-export const POSTS_PER_PAGE = 5
-
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('servicios')
+  const services = await getAllFilesFrontMatter('servicios')
   const settings = await getFileBySlug('', ['servicios'])
-  const initialDisplayPosts = posts.slice(0, POSTS_PER_PAGE)
-  const pagination = {
-    currentPage: 1,
-    totalPages: Math.ceil(posts.length / POSTS_PER_PAGE),
-  }
 
-  return { props: { initialDisplayPosts, posts, pagination, settings } }
+  return { props: { services, settings } }
 }
 
-export default function Servicios({ posts, initialDisplayPosts, pagination, settings }) {
+export default function Servicios({ services, settings }) {
   const { mdxSource, frontMatter } = settings
   return (
     <>
-      <PageSEO title={`Servicios - ${siteMetadata.author}`} description={siteMetadata.description} />
+      <PageSEO
+        title={`Servicios - ${siteMetadata.author}`}
+        description={siteMetadata.description}
+      />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
@@ -40,13 +36,13 @@ export default function Servicios({ posts, initialDisplayPosts, pagination, sett
             />
           </div>
           <div className="flex flex-wrap -m-4">
-            {posts.map((post) => (
+            {services.map((service) => (
               <Card
-                key={post.title}
-                title={post.title}
-                description={post.description}
-                imgSrc={post.imgSrc}
-                href={`/servicios/${post.slug}`}
+                key={service.title}
+                title={service.title}
+                description={service.description}
+                imgSrc={service.imgSrc}
+                href={`/servicios/${service.slug}`}
               />
             ))}
           </div>
