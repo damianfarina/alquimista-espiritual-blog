@@ -17,7 +17,7 @@ La Astrología evolutiva también nos explica que vivimos en un mundo dual, y qu
 
 <Image alt="ocean" src="/static/images/Astrologia/tauro.jpg" width={450} height={270} />
 
-Dentro de mis servicios, no me dedico a leer cartas natales, ya que mi objetivo fundamental de vida es acompañar a la persona a que realice un trabajo de **autoconocimiento** y **autoindagación**, más que simplemente darle información. Por ello, lo que hago es realizar **Cápsulas astrológicas** de la **LUNA natal** de la persona. Esto consiste en un análisis detallado de todos los aspectos que la luna particular de la persona presenta y acompaño este análisis con una **fórmula floral** para que la persona trabaje su luna. Este análisis se entrega en forma de audio para que la persona pueda escucharlo las veces que necesite, una semana después de solicitado el servicio.
+Dentro de mis servicios, no me dedico a leer cartas natales, ya que mi objetivo fundamental de vida es acompañar a la persona a que realice un trabajo de **autoconocimiento** y **autoindagación**, más que simplemente darle información. Por ello, lo que hago es realizar **Cápsulas astrológicas** de la **LUNA natal** de la persona. Esto consiste en un análisis detallado de todos los aspectos que la luna particular de la persona presenta y acompaño este análisis con una **fórmula floral** para que la persona trabaje su luna. Este análisis se entrega en forma de audio para que la persona pueda escucharlo las veces que necesite.
 
 <Image alt="ocean" src="/static/images/Astrologia/luna3.png" width={380} height={380} />
 
