@@ -24,7 +24,7 @@ La sesión dura una hora y lo que hago es limpiar y armonizar los chakras de la 
 
 <Image alt="ocean" src="/static/images/Reiki/reiki.jpg" width={300} height={450} />
 
-*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** para acompañar el proceso de cambio y sanación.* Si te interesa, podés reservar tu sesión [aquí](/contacto).
+*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** para acompañar el proceso de cambio y sanación.* La sesión puede ser presencial o a distancia. Si te interesa, podés reservar tu sesión [aquí](/contacto).
 
 
 **Principios fundamentales del Reiki**
