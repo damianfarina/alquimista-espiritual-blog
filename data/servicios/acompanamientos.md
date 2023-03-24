@@ -31,7 +31,7 @@ Y es justamente esto lo que tenemos que saber, cuando empecemos a ordenar el cao
 
 La sesión dura una hora y partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
 
-*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** para acompañar el proceso de cambio y sanación.* La sesión puede ser presencial o por Internet. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
+*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación.* La sesión puede ser presencial o por Internet, y recomiendo que se haga una cada 21 días, puesto que este método es un hábito, un estilo de vida, y debemos comenzar a aplicarlo en nuestro día a día. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
 
 ***"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones"*** (Enric Corbera)
 
