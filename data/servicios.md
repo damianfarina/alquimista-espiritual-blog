@@ -26,4 +26,4 @@ Como dice el Monstruo que viene a verme de la película: “Lo importante no es 
 
 Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. 
 
-***Las [sesiones](/contacto) pueden hacerse en español, inglés, italiano o portugués.***
+***Las [sesiones](/contacto) pueden hacerse en español, inglés, italiano o portugués, y pueden ser presenciales o a distancia.***

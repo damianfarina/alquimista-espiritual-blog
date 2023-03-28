@@ -2,7 +2,7 @@
 title: Acompañamiento en BNE
 date: '2022-03-31'
 draft: false
-description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a partir de un motivo de consulta que elija para que haga un cambio de percepción y pueda vivir en coherencia con su esencia'
+description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a partir de un motivo de consulta que elija para que haga un cambio de percepción y pueda vivir en coherencia con su alma'
 imgSrc: /static/images/BNE/paz1.png
 ---
 
