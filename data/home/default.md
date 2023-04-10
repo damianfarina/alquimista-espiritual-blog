@@ -17,7 +17,7 @@ En la práctica de la alquimia se mezclan nociones de **astrología, espirituali
 
 Mi propuesta es acompañarte a que conviertas tu plomo en oro, que logres cambiar tu percepción y que eso que duele o incomoda te sea útil para seguir creciendo y sanando…
 
-<Image alt="ocean" src="/static/images/Home/banquito.jpg" width={300} height={450} />
+<Image alt="ocean" src="/static/images/Home/vicky.jpg" width={350} height={450} />
 
 ---
 
