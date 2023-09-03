@@ -21,7 +21,7 @@ Todo depende de nosotr@s, de nuestra actitud, de nuestra voluntad, de nuestras d
 
 Dentro de mis servicios, no me dedico a leer cartas natales completas, ya que mi objetivo fundamental de vida es acompañar a la persona a que realice un trabajo de **autoconocimiento** y **autoindagación**, más que simplemente darle información. Por ello, lo que hago es realizar **Cápsulas astrológicas**, en primer lugar de la **LUNA natal** de la persona. Esto consiste en un análisis detallado de todos los aspectos que la luna particular de la persona presenta y acompaño este análisis con una **fórmula floral** para que la persona trabaje su luna. Este análisis se entrega en forma de grabación de audio para que la persona pueda escucharlo las veces que necesite. Y hago un seguimiento sobre cómo se va sintiendo.
 
-<Image alt="ocean" src="/static/images/Astrologia/luna3.png" width={380} height={380} />
+<Image alt="ocean" src="/static/images/Astrologia/lunas.jpg" width={600} height={300} />
 
 Es muy importante trabajar sobre la **LUNA** en primer lugar, ya que representa nuestro mundo emocional; es aquella que rige nuestros escudos emocionales, nos permite avanzar hacia lo que queremos o no en función de sus aspectos y nos habla de nuestro *modus operandi*. A partir de allí, se podrán trabajar otros aspectos de la carta. Si te interesa, podés reservar tu cápsula [aquí](/contacto).
 
