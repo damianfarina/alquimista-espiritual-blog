@@ -25,7 +25,7 @@ Pero tal y como dice mi mentor **Enric Corbera**, la **BNE** es para todos, pero
 
 También tenemos que tener presente que cuando decidamos responsabilizarnos por nuestra vida y comencemos a tomar decisiones, nuestro entorno se va a incomodar. ¿Qué quiere decir esto? Pues bien, imaginemos una mesa en la que hay piezas determinadas y cada una de ellas cumple una función, tiene un rol particular. Si quitamos una de esas piezas, el resto del montaje se resiente y tiene que hacer un esfuerzo por reubicarse para encontrar un nuevo equilibrio. Muchas veces, la salida más fácil es volver a traer esa pieza que se desplazó para que nada del resto tenga que modificarse.
 
-<Image alt="ocean" src="/static/images/BNE/cerebro1.png" width={400} height={400} />
+<Image alt="ocean" src="/static/images/BNE/mente3.jpg" width={550} height={450} />
 
 Y es justamente esto lo que tenemos que saber, cuando empecemos a ordenar el caos mental, a cambiar nuestra vida, nuestras actitudes, es posible que el caos se produzca fuera, y que quienes están a nuestro alrededor no sientan que es lo mejor para nosotr@s y quieran convencernos de volver a ser como antes. Es aquí donde tenemos que cerrar los ojos, respirar profundo e ir hacia dentro y preguntarnos: ¿para qué hago lo que hago? ¿es esta la vida que quiero tener? ¿qué tipo de vida quiero? Y en coherencia con las respuestas que surjan de aquí, debemos tomar las decisiones en consonancia. Me gustaría terminar diciendo que esto no es egoísmo como muchas veces vamos a escuchar, a esto se le llama **amor propio**…
 
