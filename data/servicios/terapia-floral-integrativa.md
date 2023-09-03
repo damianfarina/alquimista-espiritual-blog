@@ -15,7 +15,7 @@ imgSrc: /static/images/Acompañamiento/IMG_8181.JPG
 
 Las Flores son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotr@s, no afuera.
 
-<Image alt="ocean" src="/static/images/Acompañamiento/IMG_8181.JPG" width={450} height={300} />
+<Image alt="ocean" src="/static/images/Acompañamiento/flores.JPG" width={450} height={300} />
 
 El Dr. Edward Bach durante años buscó desarrollar un sistema de autosanación que fuera amoroso, rápido y de fácil acceso y uso para que cada persona pudiera utilizarlo incluso en su propia casa. Así fue como creó el sistema de terapia floral, ya que se dio cuenta de que cada flor tenía una personalidad particular y podía ayudar a sanar diferentes estados emocionales.
 
