@@ -3,7 +3,7 @@ title: Astrología terapéutica
 date: '2022-03-31'
 draft: false
 description: 'Cápsula astrológica como poderosa herramienta de autoconocimiento que nos permite comprender los diferentes aspectos de nuestra vida'
-imgSrc: /static/images/Astrologia/planetas2.png
+imgSrc: /static/images/Astrologia/sistema2.jpg
 ---
 
 # Astrología psicológica terapéutica
@@ -11,7 +11,7 @@ imgSrc: /static/images/Astrologia/planetas2.png
 
 Los astros siempre nos han acompañado, así sea que podamos comprenderlo o no, ellos están ahí y nos influencian constantemente. Con solo observar el efecto que tienen las fases de la luna sobre el mar, podemos comprender cómo también nos afectan a nosotr@s. Desde el momento de nuestro nacimiento, las estrellas nos acompañan y podemos utilizar toda esa energía disponible a nuestro favor, para conocernos más, para caminar hacia nuestro propósito de vida y resolver aquello que todavía se interponga en nuestra meta.
 
-<Image alt="ocean" src="/static/images/Astrologia/urano.jpg" width={450} height={300} />
+<Image alt="ocean" src="/static/images/Astrologia/sistema.jpg" width={550} height={300} />
 
 La Astrología terapéutica también nos explica que vivimos en un mundo dual, que cada signo, por ejemplo, tiene una escala de vibración, y la frecuencia en la que yo exprese esa vibración en mi vida dependerá de mi consciencia y del nivel de sanación de mis heridas. Así por ejemplo, puedo elegir utilizar la energía Aries en su baja expresión y ser una tirana, o bien usar la alta energía que este signo me ofrece y convertirme en una líder que inspire a otros. 
 
