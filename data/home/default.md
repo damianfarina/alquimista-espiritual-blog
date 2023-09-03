@@ -10,13 +10,13 @@ He creado este sitio para compartir y explicar a lo que me dedico. Durante años
 
 Hasta que encontré las que hoy quiero compartirte y sentí dar un salto de consciencia. Al inicio no lograba descifrar cómo encajarlas todas de una manera que fuera fácil de comprender y aplicar. Hasta que llegó a mí la palabra “**Alquimia**”.
 
-En la práctica de la alquimia se mezclan nociones de **astrología, espiritualidad, química, física** y también del **arte**. Los alquimistas se dedicaban a buscar la “piedra filosofal”, ya que tenían la intención de transformar el plomo en oro con ella. Y a eso me dedico justamente, tomo todas aquellas experiencias poco felices y las uso en mi beneficio, para conocerme más, más comprender por qué y para qué vivo lo que vivo, y hoy quiero compartirlo con vos para que también puedas hacerlo. 
+En la práctica de la alquimia se mezclan nociones de **astrología, espiritualidad, química, física** y también del **arte**. Los alquimistas se dedicaban a buscar la “piedra filosofal”, ya que tenían la intención de transformar el plomo en oro con ella. Y a eso me dedico justamente, tomo todas aquellas experiencias poco felices y las uso en mi beneficio, para conocerme más, para comprender por qué y para qué vivo lo que vivo y así pueda tomar mejores decisiones, y hoy quiero compartirlo con vos para que también puedas hacerlo. 
 
 Mi propuesta es acompañarte a que conviertas tu plomo en oro, que logres cambiar tu percepción y que eso que duele o incomoda te sea útil para seguir creciendo, sanando y creando una realidad más amorosa…
 
 
 
-<Image alt="ocean" src="/static/images/Home/vicky.jpg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/Home/mar.jpg" width={350} height={450} />
 
 ---
 
