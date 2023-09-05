@@ -1,6 +1,6 @@
 ---
 name: Victoria Farina
-avatar: /static/images/acerca-de/torre.jpg
+avatar: /static/images/acerca-de/eifel.jpg
 occupation: Alquimista Espiritual
 email: nvfarina@gmail.com
 ---
