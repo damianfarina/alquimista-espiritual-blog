@@ -33,7 +33,7 @@ La sesión dura una hora y partimos de una situación de estrés o un síntoma f
 
 *Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.* 
 
-La sesión puede ser presencial o por Internet, y recomiendo que se haga una cada 21 días, puesto que este método es un hábito, un estilo de vida, y debemos comenzar a aplicarlo en nuestro día a día. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
+La sesión puede ser presencial o por Internet y **con un solo acompañamiento, la persona ya puede cambiar su percepción**. Sin embargo, como doy tratamiento con flores para que acompañe a la persona a realizar esos cambios en su vida, recomiendo que se haga una sesión cada 21 días, de manera que se practique como un hábito, se vuelva un estilo de vida y se aplique en el día a día. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
 
 ***"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones"*** (Enric Corbera)
 
