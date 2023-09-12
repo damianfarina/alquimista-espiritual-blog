@@ -2,7 +2,7 @@
 title: Acompañamiento en BNE
 date: '2022-03-31'
 draft: false
-description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a hacer un cambio de percepción y que pueda vivir en coherencia con su alma'
+description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a hacer un cambio de percepción y que pueda vivir en coherencia con su alma - €90/90 min.'
 imgSrc: /static/images/BNE/paz1.png
 ---
 
@@ -29,7 +29,7 @@ También tenemos que tener presente que cuando decidamos responsabilizarnos por 
 
 Y es justamente esto lo que tenemos que saber, cuando empecemos a ordenar el caos mental, a cambiar nuestra vida, nuestras actitudes, es posible que el caos se produzca fuera, y que quienes están a nuestro alrededor no sientan que es lo mejor para nosotr@s y quieran convencernos de volver a ser como antes. Es aquí donde tenemos que cerrar los ojos, respirar profundo e ir hacia dentro y preguntarnos: ¿para qué hago lo que hago? ¿es esta la vida que quiero tener? ¿qué tipo de vida quiero? Y en coherencia con las respuestas que surjan de aquí, debemos tomar las decisiones en consonancia. Me gustaría terminar diciendo que esto no es egoísmo como muchas veces vamos a escuchar, a esto se le llama **amor propio**…
 
-La sesión dura una hora y partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
+La sesión dura 90 minutos en total y partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz emocional del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
 
 *Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.* 
 

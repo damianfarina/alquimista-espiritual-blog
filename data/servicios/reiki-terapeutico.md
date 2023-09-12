@@ -2,7 +2,7 @@
 title: Reiki terapéutico
 date: '2022-03-31'
 draft: false
-description: 'Una poderosa técnica de limpieza y alineación de chakras que ayuda a la persona a restablecer el equilibrio interno'
+description: 'Poderosa técnica de limpieza y alineación de chakras que ayuda a restablecer el equilibrio interno - €90/90 min.'
 imgSrc: /static/images/acerca-de/energia.jpg
 ---
 
@@ -20,7 +20,7 @@ Así como lo dice su nombre, este sistema actúa en función de la **energía (K
 
 <Image alt="ocean" src="/static/images/Reiki/luz.jpg" width={450} height={300} />
 
-La sesión dura una hora y lo que hago es limpiar y armonizar los chakras de la persona. Debido a emociones reprimidas que pueden surgir de situaciones de estrés, conflictos, etc., la energía que siempre está en movimiento se estanca. Es en ese momento que el cuerpo comienza a mandar señales de que hay algo que debo observar dentro de mí y darle espacio para que se exprese. Mi objetivo es observar esto, hacer consciente a la persona de aquello que su alma quiere transmitirle y, luego, limpiar esa energía estancada para que vuelva a fluir libremente.
+La sesión dura 90 minutos en total y lo que hago es limpiar y armonizar los chakras de la persona. Debido a emociones reprimidas que pueden surgir de situaciones de estrés, conflictos, etc., la energía que siempre está en movimiento se estanca. Es en ese momento que el cuerpo comienza a mandar señales de que hay algo que debo observar dentro de mí y darle espacio para que se exprese. Mi objetivo es observar esto, hacer consciente a la persona de aquello que su alma quiere transmitirle y, luego, limpiar esa energía estancada para que vuelva a fluir libremente.
 
 <Image alt="ocean" src="/static/images/Reiki/reiki.jpg" width={300} height={450} />
 
