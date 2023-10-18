@@ -4,9 +4,11 @@ pageTitle: Servicios
 pageDescription: Breve descripción de la página de servicios
 ---
 
+**Mis sesiones tienen una duración de 1 hora y media. Todas incluyen una lectura rápida de los aspectos astrológicos más importantes y una fórmula floral para ayudar en el proceso de sanación. Además, se realiza un seguimiento a los 15 días por mensaje para ver cómo se encuentra la persona.**
+
 # Para quiénes están dirigidos mis servicios
 
-Mis sesiones están dirigidas para aquellas personas con voluntad y coraje, que busquen crear otra realidad a su alrededor. Para quienes estén cansad@s de repetir las mismas historias y las mismas relaciones, y se digan a sí mism@s “*tiene que haber otra manera*”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser puesto que somos creador@s de nuestra realidad y, por ende, somos l@s únic@s que podemos cambiarla.
+Mis sesiones están dirigidas a aquellas personas con voluntad y coraje, que busquen crear otra realidad a su alrededor. Para quienes estén cansad@s de repetir las mismas historias y las mismas relaciones, y se digan a sí mism@s “*tiene que haber otra manera*”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser puesto que somos creador@s de nuestra realidad y, por ende, somos l@s únic@s que podemos cambiarla.
 
 
 Para ello, vamos a utilizar mi método **SOUL**:
