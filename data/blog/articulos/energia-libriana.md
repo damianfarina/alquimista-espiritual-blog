@@ -1,7 +1,7 @@
 ---
 title: ¿Ya sientes la energía libriana?
 date: '2023-09-26'
-tags: ['Astrología terapéutica', 'Eclipses', 'Libra', 'Claridad y responsabilidad']
+tags: ['Astrología terapéutica', 'Equinoccio', 'Libra', 'Manifestación', 'CNV']
 draft: false
 summary: 'Es hora de buscar el equilibrio en nuestras relaciones'
 ---

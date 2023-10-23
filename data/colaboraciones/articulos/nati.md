@@ -1,7 +1,7 @@
 ---
 title: Convivo Con-vida
 date: '2022-03-31'
-draft: false
+draft: true
 description: '¿Todavía no sabes cómo conectar mejor con Gaia y aprovechar su abundancia para cuidarte mejor? Nati te lo cuenta'
 imgSrc: /static/images/Colaboraciones/convida.jpg
 ---

@@ -1,13 +1,13 @@
 ---
 title: Se viene el eclipse de sol en Libra, ¿estás list@ para la transformación profunda?
 date: '2023-10-10'
-tags: ['Astrología terapéutica', 'Eclipses', 'Libra', 'Claridad y responsabilidad']
+tags: ['Astrología terapéutica', 'Eclipses', 'Libra', 'Transformación', 'Coherencia']
 draft: false
 summary: 'El próximo sábado tendremos un eclipse de sol anular en Libra y siempre que un eclipse se aproxima la intensidad emocional se acentúa.'
 ---
 
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/eclipse.JPG" width={700} height={450} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/eclipse.JPG" width={750} height={450} />
 
 
 

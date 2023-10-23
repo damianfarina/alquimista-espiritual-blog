@@ -1,7 +1,7 @@
 ---
 title: Saboreando la vida con amor…
 date: '2022-03-31'
-draft: false
+draft: true
 description: '¿Querés tirarte a la pileta y no te animás? Martín nos habla de cómo pasó de ser chef Michelin a "Convidar Alimentos"'
 imgSrc: /static/images/Colaboraciones/wow.jpg
 ---
