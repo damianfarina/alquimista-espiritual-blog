@@ -52,3 +52,5 @@ Y no hace falta que lo hagas sol@; si necesitás, pedí ayuda, charlá con algui
 Vamos, confiá en tu poder personal, en la vida y ¡a transformarse!
 
 Si querés saber más sobre la energía de esta semana, podéis escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
+
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/eclipse-de-sol-en-libra-estas-list-para-la-transformacion-profunda/).

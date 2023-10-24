@@ -48,3 +48,5 @@ Las relaciones son la mejor forma de conocerme a mí misma; es cuando me expongo
 Volviendo a mi consultante, ¿qué es aquello que le enseña su pareja? Pues que se permita sonreír más, divertirse más como él hace, sabiendo que no hay nadie que se lo prohíba y que no está mal hacerlo porque ella ahora es dueña de su propia vida y elige qué hacer con ella.
 
 Así es que aquí te dejo la buena noticia… si vos estás creando tu realidad, solo vos podés cambiarla. No necesitás nada externo para hacerlo, simplemente querer tomar la responsabilidad de tu vida y generar ese cambio hoy mismo. *¿Te animás?*
+
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/sabias-que-todo-lo-que-ves-a-tu-alrededor-tiene-que-ver-con-vos/).

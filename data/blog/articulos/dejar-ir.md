@@ -64,3 +64,5 @@ Es hora de dejar ir… La temporada escorpiana nos invita a ver nuestras sombras
 Estaremos llenos de luz, fuerza y una sabiduría que solo obtiene aquel que se anima a pasar por ese proceso de muerte y transformación…
 
 Si querés saber más sobre la energía de esta semana, podéis escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
+
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/es-hora-de-dejar-ir/).

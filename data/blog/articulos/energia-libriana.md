@@ -44,3 +44,5 @@ Te dejo el enlace [aquí](https://drive.google.com/drive/folders/1vI9M4_NkxynWjh
 Además, si te interesa, puedes formar parte de mi comunidad de Telegram, donde podrás escuchar el podcast que preparo cada lunes sobre cómo aprovechar la energía astrológica disponible. Te dejo el enlace [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
 ¡Aprovecha esta temporada libriana  para buscar el equilibrio y crear conexiones significativas en tu vida y a fin de año me cuentas cómo ha ido!
+
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/ya-sientes-la-energia-libriana/).

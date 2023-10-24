@@ -66,3 +66,5 @@ La otra cosa que puede suceder es que llegue esa llamada que me arrasa, pero que
 La temporada de eclipses es una llamada a la aventura. Si estás recibiendo una en este momento, te digo que esta es tu oportunidad para tomarla. No solo por el eclipse que se viene, sino también porque ya estamos en temporada Escorpio también y la cosa se pone intensa. 
 
 La próxima semana te contaré acerca de las siguientes etapas del viaje del héroe, pero mientras tanto, si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
+
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/el_viaje_del_heroe/).
