@@ -6,10 +6,7 @@ draft: false
 summary: 'Es hora de buscar el equilibrio en nuestras relaciones'
 ---
 
-
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/libra.JPG" width={750} height={450} />
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/libra.jpg" width={750} height={450} />
 
 **La Energia Libriana**
 
@@ -32,7 +29,7 @@ Por eso, me gustaría compartirte una herramienta poderosa para lograr este bala
 Esta temporada que empieza es una oportunidad para reflexionar sobre nuestras relaciones y buscar formas de mejorarlas. Es un momento propicio para hacer esa autoindagación y ver qué tan equilibradas están mis relaciones, tanto conmigo misma como con los demás. ¿Me centro demasiado en mí sin considerar a las personas que me rodean? O por el contrario, ¿estoy demasiado pendiente de lo que necesitan los demás y me olvido de mis propias necesidades? Al examinar nuestras propias acciones y actitudes, podemos identificar áreas en las que necesitamos ajustar nuestro enfoque y encontrar ese equilibrio interno y externo.
 
 En este equinoccio, te invito a que reflexiones sobre cómo puedes cultivar relaciones más equilibradas y armoniosas en tu vida diaria.
- 
+
 **La CNV**
 
 Si nunca has practicado la [CNV](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODcxNjE3NTQwODI2NTYx?story_media_id=3070088838313274525_1600399267&igshid=MTc4MmM1YmI2Ng==), no te preocupes. Puedes visitar mi perfil de Instagram y allí encontrarás una historia destacada con toda la información al respecto, los pasos para implementarla y ejercicios que puedes ver para ir practicando.
@@ -43,6 +40,6 @@ Te dejo el enlace [aquí](https://drive.google.com/drive/folders/1vI9M4_NkxynWjh
 
 Además, si te interesa, puedes formar parte de mi comunidad de Telegram, donde podrás escuchar el podcast que preparo cada lunes sobre cómo aprovechar la energía astrológica disponible. Te dejo el enlace [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
-¡Aprovecha esta temporada libriana  para buscar el equilibrio y crear conexiones significativas en tu vida y a fin de año me cuentas cómo ha ido!
+¡Aprovecha esta temporada libriana para buscar el equilibrio y crear conexiones significativas en tu vida y a fin de año me cuentas cómo ha ido!
 
 Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/ya-sientes-la-energia-libriana/).

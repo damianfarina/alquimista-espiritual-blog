@@ -6,14 +6,11 @@ draft: false
 summary: 'La realidad que estás viendo en este momento la has generado vos de manera inconsciente…'
 ---
 
-
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/proyeccion.JPG" width={750} height={450} />
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/proyeccion.jpg" width={750} height={450} />
 
 Sí, es así. La realidad que estás viendo en este momento la has generado vos de manera inconsciente…
 
-Te explico un poco más, en nuestra sangre llevamos información, esa información vibra de determinada manera y esa vibración emite una resonancia. Las experiencias que vivimos surgen a partir de esa vibración puesto que atraemos a nuestra vida aquello que resuena con esa información. 
+Te explico un poco más, en nuestra sangre llevamos información, esa información vibra de determinada manera y esa vibración emite una resonancia. Las experiencias que vivimos surgen a partir de esa vibración puesto que atraemos a nuestra vida aquello que resuena con esa información.
 
 Por eso es tan importante saber qué información llevamos… ¿sino, cómo vamos a cambiar nuestra realidad? Y algo sumamente importante también: ¿cómo podemos darnos cuenta de todo esto?
 
@@ -47,6 +44,6 @@ Las relaciones son la mejor forma de conocerme a mí misma; es cuando me expongo
 
 Volviendo a mi consultante, ¿qué es aquello que le enseña su pareja? Pues que se permita sonreír más, divertirse más como él hace, sabiendo que no hay nadie que se lo prohíba y que no está mal hacerlo porque ella ahora es dueña de su propia vida y elige qué hacer con ella.
 
-Así es que aquí te dejo la buena noticia… si vos estás creando tu realidad, solo vos podés cambiarla. No necesitás nada externo para hacerlo, simplemente querer tomar la responsabilidad de tu vida y generar ese cambio hoy mismo. *¿Te animás?*
+Así es que aquí te dejo la buena noticia… si vos estás creando tu realidad, solo vos podés cambiarla. No necesitás nada externo para hacerlo, simplemente querer tomar la responsabilidad de tu vida y generar ese cambio hoy mismo. _¿Te animás?_
 
 Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/sabias-que-todo-lo-que-ves-a-tu-alrededor-tiene-que-ver-con-vos/).

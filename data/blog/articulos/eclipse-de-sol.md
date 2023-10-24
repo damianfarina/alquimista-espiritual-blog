@@ -6,10 +6,7 @@ draft: false
 summary: 'El próximo sábado tendremos un eclipse de sol anular en Libra y siempre que un eclipse se aproxima la intensidad emocional se acentúa.'
 ---
 
-
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/eclipse.JPG" width={750} height={450} />
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/eclipse.jpg" width={750} height={450} />
 
 No sé si ya la estarás sintiendo, pero esta semana tenemos una energía muy intensa. El próximo sábado tendremos un eclipse de sol anular en Libra y siempre que un eclipse se aproxima la intensidad emocional se acentúa.
 

@@ -6,10 +6,7 @@ draft: false
 summary: 'Esta semana no hay que perder el centro, respira, medita, enfócate en tu interior, esto será clave.'
 ---
 
-
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/dejar.JPG" width={500} height={550} />
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/dejar.jpg" width={500} height={550} />
 
 **El ojo del huracán**
 
@@ -43,7 +40,7 @@ Quizás me estás leyendo y no te resuena nada de lo que te estoy compartiendo, 
 
 Un libro que me ayudó mucho durante mi proceso fue “Dejar ir” de David Hawkins. Te incluyo aquí una de sus frases y te recomiendo que leas el libro para estas semanas de manera que puedas aprovechar la energía de los eclipses con todo:
 
-*“La verdadera razón de ser de la sensación es la presión acumulada tras ella que la fuerza a salir en este momento. Los pensamientos o acontecimientos externos son solo una excusa inventada por la mente. A medida que nos familiaricemos con el dejar ir, nos daremos cuenta de que todo sentimiento negativo está asociado al miedo básico relacionado con la supervivencia, y que todos los sentimientos no son más que programas”* (David Hawkins).
+_“La verdadera razón de ser de la sensación es la presión acumulada tras ella que la fuerza a salir en este momento. Los pensamientos o acontecimientos externos son solo una excusa inventada por la mente. A medida que nos familiaricemos con el dejar ir, nos daremos cuenta de que todo sentimiento negativo está asociado al miedo básico relacionado con la supervivencia, y que todos los sentimientos no son más que programas”_ (David Hawkins).
 
 **Responsabilidad**
 
@@ -57,7 +54,7 @@ Cuando tomo una decisión sobre la base del miedo, la frustración, la rabia, la
 
 **Resurgir como el Fénix**
 
-Así que ,  termino este artículo diciéndote esto porque el lunes próximo el Sol entrará en Escorpio, el signo más intenso de todos, y allí será el segundo eclipse; entonces la energía no bajará, seguirá en aumento, generando presión e incomodidad hasta que decidamos hacer algo al respecto.
+Así que , termino este artículo diciéndote esto porque el lunes próximo el Sol entrará en Escorpio, el signo más intenso de todos, y allí será el segundo eclipse; entonces la energía no bajará, seguirá en aumento, generando presión e incomodidad hasta que decidamos hacer algo al respecto.
 
 Es hora de dejar ir… La temporada escorpiana nos invita a ver nuestras sombras más profundas, a que nos enfrentemos a ellas con coraje, para que muera nuestro viejo Yo y que resurjamos como el Fénix.
 

@@ -6,10 +6,7 @@ draft: false
 summary: 'Esta semana no hay que perder el centro, respira, medita, enfócate en tu interior, esto será clave.'
 ---
 
-
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/heroe.JPG" width={750} height={500} />
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/heroe.jpg" width={750} height={500} />
 
 **Y se viene la segunda**
 
@@ -29,7 +26,7 @@ Una vez que la detectes, tirá de ese hilo y buscá la raíz, mirá cuándo se c
 
 **Sé el héroe de tu vida**
 
-Seguramente has escuchado acerca de *Joseph Campbell* y su famosa obra **“El viaje del Héroe”**, y si no lo conoces, pues acá te lo cuento. Este viaje describe las etapas que atraviesa una persona a lo largo de su vida y, cuando te lo cuente, verás que seguro ya lo has pasado sin darte cuenta.
+Seguramente has escuchado acerca de _Joseph Campbell_ y su famosa obra **“El viaje del Héroe”**, y si no lo conoces, pues acá te lo cuento. Este viaje describe las etapas que atraviesa una persona a lo largo de su vida y, cuando te lo cuente, verás que seguro ya lo has pasado sin darte cuenta.
 
 El viaje se divide en 12 etapas que te iré describiendo para que puedas ir reconociéndolas en vos, pues se refieren al ritmo habitual de nuestra vida. Vamos allá…
 
@@ -63,7 +60,7 @@ La otra cosa que puede suceder es que llegue esa llamada que me arrasa, pero que
 
 **Eclipse de luna**
 
-La temporada de eclipses es una llamada a la aventura. Si estás recibiendo una en este momento, te digo que esta es tu oportunidad para tomarla. No solo por el eclipse que se viene, sino también porque ya estamos en temporada Escorpio también y la cosa se pone intensa. 
+La temporada de eclipses es una llamada a la aventura. Si estás recibiendo una en este momento, te digo que esta es tu oportunidad para tomarla. No solo por el eclipse que se viene, sino también porque ya estamos en temporada Escorpio también y la cosa se pone intensa.
 
 La próxima semana te contaré acerca de las siguientes etapas del viaje del héroe, pero mientras tanto, si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
