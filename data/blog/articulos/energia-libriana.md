@@ -7,7 +7,7 @@ summary: 'Es hora de buscar el equilibrio en nuestras relaciones'
 ---
 
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/libra.JPG" width={750} height={450} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/libra.JPG" width={750} height={450} />
 
 
 

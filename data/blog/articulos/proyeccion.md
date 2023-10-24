@@ -7,7 +7,7 @@ summary: 'La realidad que estás viendo en este momento la has generado vos de m
 ---
 
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/proyeccion.JPG" width={750} height={450} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/proyeccion.JPG" width={750} height={450} />
 
 
 

@@ -7,7 +7,7 @@ summary: 'Esta semana no hay que perder el centro, respira, medita, enfócate en
 ---
 
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/dejar.JPG" width={500} height={550} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/dejar.JPG" width={500} height={550} />
 
 
 

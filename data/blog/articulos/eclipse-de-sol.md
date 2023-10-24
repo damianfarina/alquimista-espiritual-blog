@@ -7,7 +7,7 @@ summary: 'El próximo sábado tendremos un eclipse de sol anular en Libra y siem
 ---
 
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo consciente/eclipse.JPG" width={750} height={450} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/eclipse.JPG" width={750} height={450} />
 
 
 
