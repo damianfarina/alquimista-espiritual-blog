@@ -61,4 +61,4 @@ Si estás queriendo hacer un cambio en tu vida, o de hecho la vida te está obli
 
 Y la semana que viene seguimos con el viaje de este héroe, pero mientras tanto, si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
-
+Y también puedes leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/para-abrir-un-ciclo-nuevo-primero-hay-que-cerrar-uno-anterior/)
