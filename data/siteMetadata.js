@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/damianfarina/alquimista-espiritual-blog',
   siteLogo: '/static/images/logo-light.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/victoria-alquimista-espiritual.png',
   email: 'nvfarina@gmail.com',
   instagram: 'https://www.instagram.com/alquimistaespiritual',
   telegram: 'https://t.me/+FAsF6NBDMnU5NDQ8',
