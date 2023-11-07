@@ -1,6 +1,6 @@
 ---
 name: Victoria Farina
-avatar: /static/images/acerca-de/eifel.jpg
+avatar: /static/images/Home/rojo.jpg
 occupation: Alquimista Espiritual
 email: nvfarina@gmail.com
 ---
@@ -31,4 +31,4 @@ Siempre fui muy autodidacta, me encanta estudiar y mi buena lunita en géminis m
 En España me recibí de **Experta en Bioneuroemoción®**, **lectora de aura** y me dediqué a estudiar la **terapia floral**, con lo cual sentí la maravillosa transmutación de la alquimia. Más de una década había pasado desde que inicié mi conexión con el todo cuando finalmente decidí que era hora de dedicarme a acompañar a las personas, y así fue que llegué hasta aquí. Nunca había pensado en ser terapeuta, de hecho, todo lo que hice fue para mí y, por eso, sé que funciona, he experimentado cada una de las técnicas conmigo misma. Y no he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante expansión y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer...
 
 
-<Image alt="ocean" src="/static/images/acerca-de/monet.jpg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/Home/fuente.jpg" width={350} height={450} />

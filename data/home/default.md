@@ -16,7 +16,7 @@ Mi propuesta es acompañarte a que conviertas tu plomo en oro, que logres cambia
 
 
 
-<Image alt="ocean" src="/static/images/Home/mar.jpg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/Home/celeste.jpg" width={350} height={450} />
 
 ---
 

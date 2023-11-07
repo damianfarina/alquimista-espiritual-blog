@@ -21,7 +21,7 @@ El Dr. Edward Bach durante años buscó desarrollar un sistema de autosanación 
 
 Lo que he sentido a nivel personal es que gracias a ellas pude dar un salto de consciencia, me han acompañado durante mi proceso de sanación y he visto milagros suceder. Ellas nos conectan con la Madre Tierra, quien nos sana y nos proporciona todo aquello que necesitamos, es solo cuestión de darse la oportunidad de vivirlo y comprobarlo.
 
-<Image alt="ocean" src="/static/images/Acompañamiento/20220310_104433.jpg" width={450} height={300} />
+<Image alt="ocean" src="/static/images/Home/rosa.jpg" width={350} height={450} />
 
 Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a experimentar algún estado emocional conforme a lo que hayamos reprimido en nuestro interior, ya que su función es traernos consciencia de nuestro propio ser, iluminar nuestro inconsciente. **NO nos provocan nada, simplemente nos muestran lo que ya está allí.** Por eso siempre se deben tomar con consciencia y respetando la dosis dada.
 
