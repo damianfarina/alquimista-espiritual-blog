@@ -2,7 +2,7 @@
 title: Un nuevo ciclo, una nueva oportunidad
 date: '2023-11-14'
 tags: ['Astrología terapéutica', 'Urano', 'Avanzar', 'Nuevo inicio', 'Luna nueva', 'Escorpio', 'Héroe y Gran Prueba', 'Cueva Profunda', 'Femenino y Masculino', 'Madre y Padre', 'Muerte']
-draft: true
+draft: false
 summary: 'Esta semana la energía está a nuestro favor, es hora de avanzar'
 ---
 
@@ -73,4 +73,4 @@ Si bien aquí podemos pensar que ya el viaje ha terminado, todavía queda la úl
 
 La semana que viene te seguiré contando acerca de este viaje, pero mientras tanto, si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
-Y también podés leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/damos-espacio-para-que-lo-nuevo-pueda-llegar/)
+Y también podés leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/un-nuevo-inicio-una-nueva-oportunidad/)
