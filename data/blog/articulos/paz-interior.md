@@ -1,16 +1,21 @@
 ---
 title: ¿Paz interior o tortura disfrazada?
 date: '2023-11-28'
-tags: ['Astrología terapéutica', 'Claridad', 'Comprensión', 'Sagitario', 'Honestidad', 'Paz interior', 'tortura']
-draft: true
+tags:
+  [
+    'Astrología terapéutica',
+    'Claridad',
+    'Comprensión',
+    'Sagitario',
+    'Honestidad',
+    'Paz interior',
+    'tortura',
+  ]
+draft: false
 summary: 'Cuando despierto la honestidad conmigo misma, encuentro paz en mi verdad'
 ---
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/paz.png" width={500} height={650} />
-
-
-
-
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/paz.png" width={650} height={500} />
 
 ¿Estás sintiendo la energía optimista y alegre de Sagitario? En mi caso te cuento que es muy fuerte y evidente el cambio. Es como si mi cuerpo realmente supiera que la intensidad escorpiana ya pasó y ahora es tiempo de relajarme, buscar más momentos de disfrute y soltar un poco todo ese proceso interno en el que tanto me he enfocado en los meses anteriores.
 
@@ -30,11 +35,11 @@ Pero como se dice por ahí, no todo lo que brilla es oro. Como ya te he contado 
 
 Sagitario puede ser una energía muy optimista y alegre, pero hay veces que pecará de ello. Su afán de querer que todo siempre esté bien y seguir siempre para adelante tirando flechas puede llevarlo a que no quiera ver los conflictos reales que tiene en su vida o que no quiera hacer esfuerzo cuando toque. Tenderá a fugarse de la realidad y buscará solo sentir felicidad, se volverá incoherente con sí mismo haciendo cosas que no desea hacer y, muchas veces, su objetivo será volverse el alma de la fiesta para que todos lo amen.
 
-Esto hará que Sagi acumule mucha ansiedad y que no se permita expresarla; también puede acumular rabia o frustración (es un signo de fuego), pero debido a su personalidad tampoco se permitirá demostrarla. Y esto lo llevará a que cree una máscara tras la cual esconderá su verdadero pesar. 
+Esto hará que Sagi acumule mucha ansiedad y que no se permita expresarla; también puede acumular rabia o frustración (es un signo de fuego), pero debido a su personalidad tampoco se permitirá demostrarla. Y esto lo llevará a que cree una máscara tras la cual esconderá su verdadero pesar.
 
-*Fuga emocional*
+_Fuga emocional_
 
-¿Te ha pasado alguna vez de sentir que no podés estar sola o solo, y te obligás a salir, irte de fiesta o estar todo el tiempo con personas, por más que por dentro sientas que no quieres hacerlo? ¿O has sentido la necesidad de que todos se rían, se diviertan y te metés en el rol de hacer que eso suceda? 
+¿Te ha pasado alguna vez de sentir que no podés estar sola o solo, y te obligás a salir, irte de fiesta o estar todo el tiempo con personas, por más que por dentro sientas que no quieres hacerlo? ¿O has sentido la necesidad de que todos se rían, se diviertan y te metés en el rol de hacer que eso suceda?
 
 Cuando vibramos la energía baja de Sagi, tendemos a hacer este tipo de cosas o a exagerar con sustancias, fiestas, personas, cualquier cosa que nos haga olvidar ese estado interno que nos tortura.
 
