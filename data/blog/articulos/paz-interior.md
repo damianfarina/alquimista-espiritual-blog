@@ -28,7 +28,7 @@ Sagitario puede ser una energía muy optimista y alegre, pero hay veces que peca
 
 Esto hará que Sagi acumule mucha ansiedad y que no se permita expresarla; también puede acumular rabia o frustración (es un signo de fuego), pero debido a su personalidad tampoco se permitirá demostrarla. Y esto lo llevará a que cree una máscara tras la cual esconderá su verdadero pesar.
 
-_Fuga emocional_
+*Fuga emocional*
 
 ¿Te ha pasado alguna vez de sentir que no podés estar sola o solo, y te obligás a salir, irte de fiesta o estar todo el tiempo con personas, por más que por dentro sientas que no quieres hacerlo? ¿O has sentido la necesidad de que todos se rían, se diviertan y te metés en el rol de hacer que eso suceda?
 
