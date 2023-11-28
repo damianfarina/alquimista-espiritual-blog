@@ -1,16 +1,7 @@
 ---
 title: ¿Paz interior o tortura disfrazada?
 date: '2023-11-28'
-tags:
-  [
-    'Astrología terapéutica',
-    'Claridad',
-    'Comprensión',
-    'Sagitario',
-    'Honestidad',
-    'Paz interior',
-    'tortura',
-  ]
+tags: ['Astrología terapéutica', 'Claridad', 'Comprensión', 'Sagitario', 'Honestidad', 'Paz interior', 'tortura']
 draft: false
 summary: 'Cuando despierto la honestidad conmigo misma, encuentro paz en mi verdad'
 ---
