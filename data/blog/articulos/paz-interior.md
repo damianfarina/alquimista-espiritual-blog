@@ -6,7 +6,7 @@ draft: false
 summary: 'Cuando despierto la honestidad conmigo misma, encuentro paz en mi verdad'
 ---
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/paz.png" width={650} height={700} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/paz.png" width={766} height={902} />
 
 ¿Estás sintiendo la energía optimista y alegre de Sagitario? En mi caso te cuento que es muy fuerte y evidente el cambio. Es como si mi cuerpo realmente supiera que la intensidad escorpiana ya pasó y ahora es tiempo de relajarme, buscar más momentos de disfrute y soltar un poco todo ese proceso interno en el que tanto me he enfocado en los meses anteriores.
 
