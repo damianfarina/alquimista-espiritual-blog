@@ -6,12 +6,7 @@ description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a h
 imgSrc: /static/images/BNE/paz1.png
 ---
 
-
-
-
-
 # Acompañamiento en Bioneuroemoción®
-
 
 La **Bioneuroemoción® (BNE)** se podría definir como un hábito, un estilo de vida, un método que sirve para hacer un cambio de percepción a partir de la inversión de pensamiento. Parte de la base de la conciencia de unidad, tod@s somos un@, estamos conectad@s, y lo que pasa a mi alrededor siempre tiene que ver conmigo.
 
@@ -31,11 +26,8 @@ Y es justamente esto lo que tenemos que saber, cuando empecemos a ordenar el cao
 
 La sesión dura 90 minutos en total y partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz emocional del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
 
-*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.* 
+\*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una **_fórmula floral_** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.\*
 
 La sesión puede ser presencial o por Internet y **con un solo acompañamiento, la persona ya puede cambiar su percepción**. Sin embargo, como doy tratamiento con flores para que acompañe a la persona a realizar esos cambios en su vida, recomiendo que se haga una sesión cada 21 días, de manera que se practique como un hábito, se vuelva un estilo de vida y se aplique en el día a día. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
 
-***"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones"*** (Enric Corbera)
-
-
-
+**_"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones"_** (Enric Corbera)

@@ -6,12 +6,7 @@ description: 'El tratamiento floral forma parte de todos los servicios que ofrez
 imgSrc: /static/images/Acompañamiento/IMG_8181.JPG
 ---
 
-
-
-
-
 # Terapia floral integral
-
 
 Las Flores son un método maravilloso de sanación. Es una terapia vibracional que actúa sobre el campo emocional y espiritual. Es una conexión de espíritu (de la flor) a espíritu (de la persona) y su objetivo es trabajar las capas de cebolla para que finalmente podamos llegar a nuestro ser, reconocernos y abrazarnos. Nos ayudan a encontrar ese “oro” y comprender que siempre ha estado dentro de nosotr@s, no afuera.
 
@@ -29,4 +24,4 @@ Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a e
 
 **Las flores forman parte de todos los servicios que ofrezco, ya sea Acompañamiento en BNE, Reiki o Cápsulas astrológicas, ya que para mí es muy importante que la persona tenga una herramienta de apoyo durante su toma de consciencia y cambio personal. Y las fórmulas son personalizadas en función del motivo de consulta de la persona y de los aspectos astrológicos de su carta natal.**
 
-***"La salud depende de que estemos en armonía con nuestra alma"*** (Edward Bach)
+**_"La salud depende de que estemos en armonía con nuestra alma"_** (Edward Bach)

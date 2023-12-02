@@ -6,7 +6,7 @@ import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/l
 
 const DEFAULT_LAYOUT = 'SimpleLayout'
 export async function getStaticPaths() {
-  const posts = getFiles('servicios')
+  const posts = getFiles('mis-metodos')
   return {
     paths: posts.map((p) => ({
       params: {
@@ -18,11 +18,11 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const allPosts = await getAllFilesFrontMatter('servicios')
+  const allPosts = await getAllFilesFrontMatter('mis-metodos')
   const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === params.slug.join('/'))
   const prev = allPosts[postIndex + 1] || null
   const next = allPosts[postIndex - 1] || null
-  const post = await getFileBySlug('servicios', params.slug.join('/'))
+  const post = await getFileBySlug('mis-metodos', params.slug.join('/'))
   const authorList = post.frontMatter.authors || ['default']
   const authorPromise = authorList.map(async (author) => {
     const authorResults = await getFileBySlug('authors', [author])
@@ -39,7 +39,7 @@ export async function getStaticProps({ params }) {
   return { props: { post, authorDetails, prev, next } }
 }
 
-export default function Servicios({ post, authorDetails, prev, next }) {
+export default function MisMetodos({ post, authorDetails, prev, next }) {
   const { mdxSource, toc, frontMatter } = post
 
   return (

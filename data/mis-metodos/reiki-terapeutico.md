@@ -6,10 +6,6 @@ description: 'Poderosa técnica de limpieza y alineación de chakras que ayuda a
 imgSrc: /static/images/acerca-de/energia.jpg
 ---
 
-
-
-
-
 # Reiki terapéutico
 
 Hace ya 17 años que empecé este camino de sanación a través de esta técnica por imposición de manos. Hoy en día soy la **8.a** generación de **Maestros Reiki** procedentes del **Maestro Mikao Usui** en Japón.
@@ -24,8 +20,7 @@ La sesión dura 90 minutos en total y lo que hago es limpiar y armonizar los cha
 
 <Image alt="ocean" src="/static/images/Reiki/reiki.jpg" width={300} height={450} />
 
-*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una ***fórmula floral*** para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.* La sesión puede ser presencial o a distancia. Si te interesa, podés reservar tu sesión [aquí](/contacto).
-
+\*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una **_fórmula floral_** para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.\* La sesión puede ser presencial o a distancia. Si te interesa, podés reservar tu sesión [aquí](/contacto).
 
 **Principios fundamentales del Reiki**
 
@@ -37,4 +32,4 @@ Solo por hoy:
 - Demuestra gratitud
 - Gana honradamente el pan de cada día
 
-***Dr. Mikao Usui***
+**_Dr. Mikao Usui_**

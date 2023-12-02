@@ -1,6 +1,6 @@
 ---
 title: Para quiénes están dirigidos mis servicios
-pageTitle: Servicios
+pageTitle: Mis métodos
 pageDescription: Breve descripción de la página de servicios
 ---
 
@@ -8,8 +8,7 @@ pageDescription: Breve descripción de la página de servicios
 
 # Para quiénes están dirigidos mis servicios
 
-Mis sesiones están dirigidas a aquellas personas con voluntad y coraje, que busquen crear otra realidad a su alrededor. Para quienes estén cansad@s de repetir las mismas historias y las mismas relaciones, y se digan a sí mism@s “*tiene que haber otra manera*”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser puesto que somos creador@s de nuestra realidad y, por ende, somos l@s únic@s que podemos cambiarla.
-
+Mis sesiones están dirigidas a aquellas personas con voluntad y coraje, que busquen crear otra realidad a su alrededor. Para quienes estén cansad@s de repetir las mismas historias y las mismas relaciones, y se digan a sí mism@s “_tiene que haber otra manera_”. Para personas que no tengan miedo de responsabilizarse de su vida, de su bienestar y su bienser puesto que somos creador@s de nuestra realidad y, por ende, somos l@s únic@s que podemos cambiarla.
 
 Para ello, vamos a utilizar mi método **SOUL**:
 
@@ -22,12 +21,10 @@ Como dice el Monstruo que viene a verme de la película: “Lo importante no es 
 
 **Es importante saber que durante las sesiones y el tratamiento con terapia floral es posible que surjan estados emocionales, que son propios de la persona, y no me hago responsable de ellos. Tod@s cargamos con emociones, dolores, pesares, y cada un@ es responsable de sí mism@.**
 
-
 # Cómo lo hago
 
+Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos.
 
-Para lograr esta transmutación maravillosa de la que nos habla la Alquimia, utilizo diferentes métodos que he aprendido a lo largo del camino, todos me han servido de una u otra manera, y mi idea es que también te beneficies de ellos. 
+**_Las [sesiones](/contacto) pueden hacerse en español, inglés, italiano o portugués, y pueden ser presenciales o por Internet._**
 
-***Las [sesiones](/contacto) pueden hacerse en español, inglés, italiano o portugués, y pueden ser presenciales o por Internet.***
-
-***Todas mis sesiones incluyen tratamiento con terapia floral y lectura rápida de los principales aspectos astrológicos para determinar aquellos que puedan estar influenciando sobre el motivo de consulta de mis consultantes.***
+**_Todas mis sesiones incluyen tratamiento con terapia floral y lectura rápida de los principales aspectos astrológicos para determinar aquellos que puedan estar influenciando sobre el motivo de consulta de mis consultantes._**

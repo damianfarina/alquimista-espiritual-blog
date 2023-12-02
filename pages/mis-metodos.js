@@ -8,24 +8,24 @@ import Card from '@/components/Card'
 import PageTitle from '@/components/PageTitle'
 
 export async function getStaticProps() {
-  const services = await getAllFilesFrontMatter('servicios')
-  const settings = await getFileBySlug('', ['servicios'])
+  const methods = await getAllFilesFrontMatter('mis-metodos')
+  const settings = await getFileBySlug('', ['mis-metodos'])
 
-  return { props: { services, settings } }
+  return { props: { methods, settings } }
 }
 
-export default function Servicios({ services, settings }) {
+export default function MisMetodos({ methods, settings }) {
   const { mdxSource, frontMatter } = settings
   return (
     <>
       <PageSEO
-        title={`Servicios - ${siteMetadata.author}`}
+        title={`Mis Métodos - ${siteMetadata.author}`}
         description={siteMetadata.description}
       />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
-          <PageTitle>Servicios</PageTitle>
+          <PageTitle>Mis Métodos</PageTitle>
         </div>
         <div className="container pt-8">
           <div className="w-full">
@@ -36,13 +36,13 @@ export default function Servicios({ services, settings }) {
             />
           </div>
           <div className="flex flex-wrap -m-4">
-            {services.map((service) => (
+            {methods.map((method) => (
               <Card
-                key={service.title}
-                title={service.title}
-                description={service.description}
-                imgSrc={service.imgSrc}
-                href={`/servicios/${service.slug}`}
+                key={method.title}
+                title={method.title}
+                description={method.description}
+                imgSrc={method.imgSrc}
+                href={`/mis-metodos/${method.slug}`}
               />
             ))}
           </div>
