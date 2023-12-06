@@ -71,4 +71,6 @@ Si ya te has dado cuenta de que alguna relación en tu vida debería transformar
 
 Te aseguro que hay algo súper valioso y creativo dentro tuyo que está esperando expresarse, solo hay que animarse a ver qué hay debajo de ese velo y sacarlo a la luz. Y si no podés solo o sola, siempre se puede pedir ayuda. Recordá que siempre hay alguien allí…
 
-Si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/nuestra-afrodita-se-prepara-para-renacer/).
+Si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
+
+Y también podés leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/nuestra-afrodita-se-prepara-para-renacer/).
