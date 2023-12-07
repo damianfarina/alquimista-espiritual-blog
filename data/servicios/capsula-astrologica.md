@@ -2,7 +2,7 @@
 title: Astrología terapéutica
 date: '2022-03-31'
 draft: false
-description: 'Cápsula astrológica como poderosa herramienta de autoconocimiento que nos permite comprender los diferentes aspectos de nuestra vida - €60/grabación'
+description: 'Cápsula astrológica como poderosa herramienta de autoconocimiento que nos permite comprender los diferentes aspectos de nuestra vida'
 imgSrc: /static/images/Astrologia/sistema2.jpg
 ---
 
