@@ -3,7 +3,7 @@ title: Sesión Plutoniana
 date: '2023-12-04'
 draft: false
 description: '¡Estoy listo para destruir y reconstruir!'
-imgSrc: /static/images/Astrologia/sistema2.jpg
+imgSrc: /static/images/Astrologia/pluton.jpg
 ---
 
 # Sesión Plutoniana €90

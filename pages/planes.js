@@ -18,14 +18,11 @@ export default function Planes({ plans, settings }) {
   const { mdxSource, frontMatter } = settings
   return (
     <>
-      <PageSEO
-        title={`Mis Métodos - ${siteMetadata.author}`}
-        description={siteMetadata.description}
-      />
+      <PageSEO title={`Planes - ${siteMetadata.author}`} description={siteMetadata.description} />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
-          <PageTitle>Mis Métodos</PageTitle>
+          <PageTitle>Planes</PageTitle>
         </div>
         <div className="container pt-8">
           <div className="w-full">

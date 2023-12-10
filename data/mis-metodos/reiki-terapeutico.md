@@ -2,7 +2,7 @@
 title: Reiki terapéutico
 date: '2022-03-31'
 draft: false
-description: 'Poderosa técnica de limpieza y alineación de chakras que ayuda a restablecer el equilibrio interno'
+description: 'Maravillosa técnica de limpieza y alineación de chakras que ayuda a restablecer el equilibrio interno'
 imgSrc: /static/images/acerca-de/energia.jpg
 ---
 
@@ -16,11 +16,9 @@ Así como lo dice su nombre, este sistema actúa en función de la **energía (K
 
 <Image alt="ocean" src="/static/images/Reiki/luz.jpg" width={450} height={300} />
 
-La sesión dura 90 minutos en total y lo que hago es limpiar y armonizar los chakras de la persona. Debido a emociones reprimidas que pueden surgir de situaciones de estrés, conflictos, etc., la energía que siempre está en movimiento se estanca. Es en ese momento que el cuerpo comienza a mandar señales de que hay algo que debo observar dentro de mí y darle espacio para que se exprese. Mi objetivo es observar esto, hacer consciente a la persona de aquello que su alma quiere transmitirle y, luego, limpiar esa energía estancada para que vuelva a fluir libremente.
+Debido a emociones reprimidas que pueden surgir de situaciones de estrés, conflictos, etc., la energía que siempre está en movimiento se estanca. Es en ese momento que el cuerpo comienza a mandar señales de que hay algo que debo observar dentro de mí y darle espacio para que se exprese. Durante la sesión, mi objetivo es observar esto, hacer consciente a la persona de aquello que su alma y sus guías espirituales quieren transmitirle y, luego, limpiar esa energía estancada para que vuelva a fluir libremente.
 
 <Image alt="ocean" src="/static/images/Reiki/reiki.jpg" width={300} height={450} />
-
-\*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una **_fórmula floral_** para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.\* La sesión puede ser presencial o a distancia. Si te interesa, podés reservar tu sesión [aquí](/contacto).
 
 **Principios fundamentales del Reiki**
 

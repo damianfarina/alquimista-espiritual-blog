@@ -3,7 +3,7 @@ title: Sesión Venusina
 date: '2023-12-04'
 draft: false
 description: 'Quiero sentir calma y conforto'
-imgSrc: /static/images/Astrologia/venus4.png
+imgSrc: /static/images/Astrologia/venus.jpg
 ---
 
 # Sesión Venusina €90

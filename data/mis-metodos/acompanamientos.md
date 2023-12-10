@@ -2,7 +2,7 @@
 title: Acompañamiento en BNE
 date: '2022-03-31'
 draft: false
-description: 'Sesión personalizada cuyo objetivo es acompañar a la persona a hacer un cambio de percepción y que pueda vivir en coherencia con su alma'
+description: 'Cambia tu percepción y cambiarás tu vida'
 imgSrc: /static/images/BNE/paz1.png
 ---
 
@@ -20,14 +20,10 @@ Pero tal y como dice mi mentor **Enric Corbera**, la **BNE** es para todos, pero
 
 También tenemos que tener presente que cuando decidamos responsabilizarnos por nuestra vida y comencemos a tomar decisiones, nuestro entorno se va a incomodar. ¿Qué quiere decir esto? Pues bien, imaginemos una mesa en la que hay piezas determinadas y cada una de ellas cumple una función, tiene un rol particular. Si quitamos una de esas piezas, el resto del montaje se resiente y tiene que hacer un esfuerzo por reubicarse para encontrar un nuevo equilibrio. Muchas veces, la salida más fácil es volver a traer esa pieza que se desplazó para que nada del resto tenga que modificarse.
 
-<Image alt="ocean" src="/static/images/BNE/mente3.jpg" width={550} height={450} />
+<Image alt="ocean" src="/static/images/BNE/cerebro1.png" width={550} height={450} />
 
 Y es justamente esto lo que tenemos que saber, cuando empecemos a ordenar el caos mental, a cambiar nuestra vida, nuestras actitudes, es posible que el caos se produzca fuera, y que quienes están a nuestro alrededor no sientan que es lo mejor para nosotr@s y quieran convencernos de volver a ser como antes. Es aquí donde tenemos que cerrar los ojos, respirar profundo e ir hacia dentro y preguntarnos: ¿para qué hago lo que hago? ¿es esta la vida que quiero tener? ¿qué tipo de vida quiero? Y en coherencia con las respuestas que surjan de aquí, debemos tomar las decisiones en consonancia. Me gustaría terminar diciendo que esto no es egoísmo como muchas veces vamos a escuchar, a esto se le llama **amor propio**…
 
-La sesión dura 90 minutos en total y partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz emocional del conflicto. Tengo que decir que por lo general esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
-
-\*Dado que mi propósito fundamental es que la persona tome consciencia y cambie su vida, mi sesión incluye una **_fórmula floral_** y diversos ejercicios o meditación (en función de lo que observe que la persona necesita) para acompañar el proceso de cambio y sanación, a menos que la persona no quiera tomar las flores, pero mi recomendación siempre será hacerlo.\*
-
-La sesión puede ser presencial o por Internet y **con un solo acompañamiento, la persona ya puede cambiar su percepción**. Sin embargo, como doy tratamiento con flores para que acompañe a la persona a realizar esos cambios en su vida, recomiendo que se haga una sesión cada 21 días, de manera que se practique como un hábito, se vuelva un estilo de vida y se aplique en el día a día. Si te interesa, podés reservar tu acompañamiento [aquí](/contacto).
+En la sesión partimos de una situación de estrés o un síntoma físico que el/la consultante quiera tratar con el objetivo de buscar la raíz emocional del conflicto. Tengo que decir que esa raíz se encuentra en la infancia, por lo que tendremos que volver al tiempo atrás a fin de detectar creencias limitantes, condicionamientos bloqueantes o lealtades familiares que estén interfiriendo.
 
 **_"Madurar emocionalmente significa entender que lo que nos define en la vida no son nuestras circunstancias, sino nuestras decisiones"_** (Enric Corbera)

@@ -2,7 +2,7 @@
 title: Terapia floral integral
 date: '2022-03-31'
 draft: false
-description: 'El tratamiento floral forma parte de todos los servicios que ofrezco, es una poderosa herramienta que nos aporta consciencia y nos ayuda a dar el salto cuántico'
+description: 'Despierta esa virtud que habita en tu interior'
 imgSrc: /static/images/Acompañamiento/IMG_8181.JPG
 ---
 
@@ -22,6 +22,8 @@ Eso sí, hay que ser respetuos@s con ellas, son poderosas y pueden llevarnos a e
 
 <Image alt="ocean" src="/static/images/Acompañamiento/20220310_104231.jpg" width={450} height={300} />
 
-**Las flores forman parte de todos los servicios que ofrezco, ya sea Acompañamiento en BNE, Reiki o Cápsulas astrológicas, ya que para mí es muy importante que la persona tenga una herramienta de apoyo durante su toma de consciencia y cambio personal. Y las fórmulas son personalizadas en función del motivo de consulta de la persona y de los aspectos astrológicos de su carta natal.**
+El Dr. Bach decía que las flores venían a corregir un error y resaltar una virtud. Es decir, lo que hacen es activar todas esas virtudes del alma que se encuentran en nuestro interior y que muchas veces creemos que no están; pues no, simplemente están dormidas muchas veces.
+
+**Las fórmulas que preparo son personalizadas en función del motivo de consulta de la persona, de los mensajes que reciba durante la sesión de Reiki y de los aspectos astrológicos de su carta natal.**
 
 **_"La salud depende de que estemos en armonía con nuestra alma"_** (Edward Bach)

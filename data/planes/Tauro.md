@@ -3,7 +3,7 @@ title: Sesión Taurina
 date: '2023-12-04'
 draft: false
 description: 'Voy despacio, pero seguro'
-imgSrc: /static/images/Acompañamiento/IMG_8181.JPG
+imgSrc: /static/images/Astrologia/tauro.jpg
 ---
 
 # Sesión Taurina €90
