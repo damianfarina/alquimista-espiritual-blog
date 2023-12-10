@@ -8,24 +8,21 @@ import Card from '@/components/Card'
 import PageTitle from '@/components/PageTitle'
 
 export async function getStaticProps() {
-  const services = await getAllFilesFrontMatter('servicios')
-  const settings = await getFileBySlug('', ['servicios'])
+  const plans = await getAllFilesFrontMatter('planes')
+  const settings = await getFileBySlug('', ['planes'])
 
-  return { props: { services, settings } }
+  return { props: { plans, settings } }
 }
 
-export default function Servicios({ services, settings }) {
+export default function Planes({ plans, settings }) {
   const { mdxSource, frontMatter } = settings
   return (
     <>
-      <PageSEO
-        title={`Servicios - ${siteMetadata.author}`}
-        description={siteMetadata.description}
-      />
+      <PageSEO title={`Planes - ${siteMetadata.author}`} description={siteMetadata.description} />
       <ScrollTopAndComment />
       <div className="divide-y">
         <div className="pb-8 space-y-2 md:space-y-5">
-          <PageTitle>Servicios</PageTitle>
+          <PageTitle>Planes</PageTitle>
         </div>
         <div className="container pt-8">
           <div className="w-full">
@@ -36,13 +33,13 @@ export default function Servicios({ services, settings }) {
             />
           </div>
           <div className="flex flex-wrap -m-4">
-            {services.map((service) => (
+            {plans.map((plan) => (
               <Card
-                key={service.title}
-                title={service.title}
-                description={service.description}
-                imgSrc={service.imgSrc}
-                href={`/servicios/${service.slug}`}
+                key={plan.title}
+                title={plan.title}
+                description={plan.description}
+                imgSrc={plan.imgSrc}
+                href={`/planes/${plan.slug}`}
               />
             ))}
           </div>

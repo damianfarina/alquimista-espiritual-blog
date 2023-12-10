@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Alquimista Espiritual',
   author: 'Victoria Farina',
-  description: 'Breve descripción del sitio',
+  description: 'Cambia tu percepción, cambia tu vida',
   language: 'es-es',
   theme: 'system', // system, dark or light
   siteUrl: 'https://alquimistaespiritual.es',
