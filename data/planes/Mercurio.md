@@ -8,10 +8,16 @@ imgSrc: /static/images/BNE/mente3.jpg
 
 # Sesión Mercuriana
 
-**_€60_ Sesión de BNE de 40 minutos**
+**Sesión de BNE de 40 minutos**
 
 Este plan está pensado para personas que desean tratar un tema puntual, pero que no desean hacer un tratamiento. La sesión es más corta que las demás y no se realiza seguimiento alguno.
 
-**_€75_ Sesión de BNE de 40 minutos + fórmula floral personalizada y mandala**
+**Intercambio: €60**
+
+---
+
+**Sesión de BNE de 40 minutos + fórmula floral personalizada y mandala**
 
 Este plan está pensado para personas que desean tratar un tema puntual, pero que sí tienen interés en realizar un tratamiento con flores y mandalas. La sesión es más corta que las demás y no se realiza seguimiento alguno.
+
+**Intercambio: €75**

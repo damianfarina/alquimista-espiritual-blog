@@ -6,7 +6,7 @@ description: 'Limpio, purifico y elevo mi vibración'
 imgSrc: /static/images/acerca-de/energia.jpg
 ---
 
-# Sesión Neptuniana €230
+# Sesión Neptuniana
 
 **_Incluye 3 sesiones de Reiki terapéutico de 1 hora, 1 vez por semana + lectura rápida de aspectos astrológicos principales + fórmula floral personalizada y mandala + 1 Bruma tu Aura de protección + videollamada de seguimiento de 30 minutos en la 4.a semana_**
 
@@ -17,3 +17,5 @@ El objetivo de este plan es enfocarnos en hacer limpieza y elevar la vibración.
 Se preparará una fórmula floral acorde a lo que surja durante la sesión y también se incluirá una Bruma de protección para sellar el aura para que la persona lleve consigo.
 
 En la 4.a semana, haremos una videollamada de seguimiento para que podamos charlar sobre los cambios observados y sobre aquello que se necesite ajustar.
+
+**Intercambio: €230**
