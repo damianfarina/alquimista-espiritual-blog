@@ -11,11 +11,11 @@ tags:
     'Cronos',
     'Materialización',
   ]
-draft: true
+draft: false
 summary: 'Es un momento mágico del año para manifestar con base sólida'
 ---
 
-<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/capricornio.jpg" width={850} height={500} />
+<Image alt="ocean" src="/static/images/Blog/Tiempo-consciente/capricornio.png" width={850} height={500} />
 
 **Capricornio**
 
@@ -83,4 +83,4 @@ El cuerpo no nos miente jamás, es una clave que podemos utilizar para determina
 
 Si querés saber más sobre la energía de esta semana, podés escuchar el audio [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
 
-Y también podés leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/preparado-para-el-analisis-interno/).
+Y también podés leer el artículo [aquí en Tiempo Consciente](https://tiempoconsciente.com/alquimia-espiritual/llego-el-solsticio-de-capricornio/).
