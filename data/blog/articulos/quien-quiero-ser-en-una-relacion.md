@@ -1,7 +1,18 @@
 ---
 title: ¿Quién quiero ser en una relación?
-date: '2024-01-23'
-tags: ['Astrología terapéutica', 'Plutón', 'Acuario', 'Salto cuántico', 'Transformación']
+date: '2024-01-30'
+tags:
+  [
+    'Responsabilidad afectiva',
+    'Irresponsabilidad',
+    'Ghosting',
+    'Zombing',
+    'Benching',
+    'Stalking',
+    'Haunting',
+    'Breadcrumbing',
+    'Consciencia y coherencia',
+  ]
 draft: false
 summary: 'Siempre nos enfocamos en lo que queremos de los demás, pero ¿qué estoy dando yo?'
 ---
