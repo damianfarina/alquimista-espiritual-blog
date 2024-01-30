@@ -27,4 +27,4 @@ En España completé el **Máster en Bioneuroemoción®**, me hice **lectora de 
 
 Nunca había pensado en ser terapeuta, de hecho, todo lo que hice fue para mí y, por eso, sé que funciona, he experimentado cada una de las técnicas conmigo misma. Y no he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante expansión y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer...
 
-<Image alt="ocean" src="/static/images/Acerca-de/seria.jpeg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/acerca-de/seria.jpeg" width={350} height={450} />
