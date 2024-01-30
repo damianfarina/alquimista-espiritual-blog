@@ -3,7 +3,7 @@ title: Reiki terapéutico
 date: '2022-03-31'
 draft: false
 description: 'Maravillosa técnica de limpieza y alineación de chakras que ayuda a restablecer el equilibrio interno'
-imgSrc: /static/images/acerca-de/energia.jpg
+imgSrc: /static/images/acerca-de/sol.jpg
 ---
 
 # Reiki terapéutico

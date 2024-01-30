@@ -11,13 +11,13 @@ Siempre me interesó comprender la energía, me era fácil sentirla, reconocerla
 
 A los 21 años me hice **Reikista** y sentí un salto hacia otra dimensión, todo lo que percibía de niña dejó de ser un sueño y se volvió parte de mi realidad, vi el mundo y la vida misma desde otra perspectiva, la conexión con el Todo era más que una fantasía…
 
-<Image alt="ocean" src="/static/images/acerca-de/sol.jpg" width={450} height={300} />
+<Image alt="ocean" src="/static/images/acerca-de/todo.JPG" width={450} height={300} />
 
 Durante los años siguientes me dediqué a sentir y percibir, me volví nómada digital y comencé a viajar; la niñez que tuve me había ayudado mucho a potenciar la observación y la escucha flotante, y me fue fácil percibir a las personas. Comencé con la **meditación**, el **yoga** y el **Ho’oponopono**. Fue en esta etapa que descubrí la **Biodescodificación** que luego se transformaría en la **Bioneuroemoción®**, las cuales me enseñaron a comprender lo que mi cuerpo quería comunicarme, y así logré sanar varios síntomas que me acompañaron de manera recurrente durante años.
 
 En los años en que viví en Brasil también estudié **Chamanismo**, el cual me regaló una conexión con la Madre Tierra que me emociona, y **Espiritismo**, que me respondió muchas preguntas que nada ni nadie había podido responderme hasta el momento. Luego de eso, cumplí otro sueño y fui a Tailandia a meditar con los monjes y experimentar en carne viva el **Budismo** y sus enseñanzas.
 
-<Image alt="ocean" src="/static/images/acerca-de/CA6A1842.jpg" width={300} height={450} />
+<Image alt="ocean" src="/static/images/acerca-de/meditar.jpg" width={300} height={450} />
 
 Siempre fui muy autodidacta, me encanta estudiar y mi buena lunita en géminis me acompaña en eso, junto con mi ascendente en Sagitario que me pide fervientemente experimentar el mundo, viajar, aprender para, finalmente, compartir. Y cuando llegué a Italia fue que mi conexión con la **Astrología** se hizo más fuerte. Durante ese tiempo estudié **Astrosofía** mientras que a la vez seguía estudiando por mi cuenta con videos de diversos astrólogos que llamaban mi atención.
 
@@ -27,4 +27,4 @@ En España completé el **Máster en Bioneuroemoción®**, me hice **lectora de 
 
 Nunca había pensado en ser terapeuta, de hecho, todo lo que hice fue para mí y, por eso, sé que funciona, he experimentado cada una de las técnicas conmigo misma. Y no he dejado de estudiar, no creo que nunca lo haga, me considero un ser en constante expansión y mi intención es utilizar todos los recursos que voy adquiriendo a favor de mis consultantes, es lo que me propongo hacer...
 
-<Image alt="ocean" src="/static/images/Home/fuente.jpg" width={350} height={450} />
+<Image alt="ocean" src="/static/images/Acerca-de/seria.jpeg" width={350} height={450} />
