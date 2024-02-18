@@ -24,4 +24,8 @@ Así es como se generan cambios, cuando uno solo no puede, se pide ayuda, apoyo,
 
 En este momento, su madre desborda de emoción por tal logro alcanzado, pues no es una tarea fácil, y ver que hoy su hijo no solo se anima a salir y a expresarse sino que también lo disfruta, acaricia el corazón.
 
-Tanto ella como yo deseamos que todos los niños y adolescentes que viven este tipo de desafío reciban ese apoyo y esa comprensión que tan importante es para su desarrollo feliz. Es un camino que se recorre paso a paso, con paciencia, compasión y mucho amor, y los resultados, en algún momento, llegan...
+Tanto ella como yo deseamos que todos los niños y adolescentes que viven este tipo de desafío reciban ese apoyo y esa comprensión que tan importante es para su desarrollo feliz, sabiendo que existen métodos de sanación naturales más allá de los tradicionales, que pueden ayudarnos a alcanzar ese objetivo.
+
+No me canso de decirlo, la terapia floral ha sido en mi vida un antes y un después, no solo por los resultados que veo en los demás, sino por mi propia experiencia. Las flores me han acompañado en procesos emocionales intensísimos que he tenido, han sido un sostén en momentos de dolor y desesperación, me han ayudado a despertar las virtudes que se encontraban adormecidas dentro mío y me han potenciado para que las saque y las utilice.
+
+Es un camino que se recorre paso a paso, con paciencia, compasión y mucho amor, y los resultados, en algún momento, llegan...
