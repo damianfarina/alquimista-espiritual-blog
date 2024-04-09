@@ -1,6 +1,6 @@
 ---
 title: La claridad va llegando
-date: '2024-04-19'
+date: '2024-04-09'
 tags:
   [
     'Astrología terapéutica',
