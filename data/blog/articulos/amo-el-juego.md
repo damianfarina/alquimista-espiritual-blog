@@ -11,7 +11,7 @@ tags:
     'Prosperidad y abundancia',
     'Seguridad y estabilidad',
     'Innovación y crecimiento',
-    'Expansiín',
+    'Expansión',
     'Júpiter',
   ]
 draft: false
