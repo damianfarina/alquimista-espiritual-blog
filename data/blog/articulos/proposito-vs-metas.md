@@ -4,12 +4,12 @@ date: '2024-07-09'
 tags:
   [
     'Astrología terapéutica',
-    'Mercurio',
-    'Autovaloración',
-    'Autodestrucción',
-    'Reparenting',
-    'Maternaje y autocuidado',
-    'Reflexión',
+    'Venus',
+    'Propósito',
+    'Metas',
+    'Para qué',
+    'Impacto positivo',
+    'Motivación y realización',
     'Desarrollo personal',
   ]
 draft: false
