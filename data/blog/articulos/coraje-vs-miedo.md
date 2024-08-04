@@ -90,6 +90,6 @@ Aquí te dejo algunas preguntas para que reflexiones y aproveches estos tránsit
 
 ¿Percibes que estás en modo “supervivencia” y que el miedo te paraliza? ¿O te reconoces enfrentando el coraje vs. el miedo?
 
-Si te interesa ver nuestro Podcast, convertirte en uno de nuestros **_Versus Visionaires_** y recibir sugerencias sobre cómo nosotras danzamos con el miedo y el coraje, te dejo el enlace [aquí](https://www.youtube.com/watch?v=tvyhW61Aluk&ab_channel=KiraEast).
+Si te interesa ver nuestro Podcast, convertirte en uno de nuestros **_Versus Visionaires_** y recibir sugerencias sobre cómo nosotras danzamos con el miedo y el coraje, te dejo el enlace [aquí](https://youtu.be/1jK6cLvdfFI).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

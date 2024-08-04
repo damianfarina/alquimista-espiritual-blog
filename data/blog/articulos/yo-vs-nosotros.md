@@ -167,4 +167,6 @@ Debate en grupo: Reúnete con amigos, familiares o colegas. Si se hace virtualme
 
 Estas acciones no solo profundizarán tu comprensión del poder transformador de la colaboración, sino que también te empoderarán para abrazar la fuerza colectiva del “nosotros” en tu viaje. Atrévete a dar estos pasos y observa cómo el paisaje de posibilidades se expande ante ti, impulsado por el espíritu de unidad y éxito compartido.
 
+Si quieres saber más acerca de lo que Kira y yo opinamos sobre este tema, te invito a ver el episodio del Podcast Versus – Harmony In Contrasts, que habla sobre ello, y a convertirte en uno de nuestros Versus Visionaries; te dejo el enlace [aquí](https://youtu.be/Xq5W20RQFrA)
+
 Si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

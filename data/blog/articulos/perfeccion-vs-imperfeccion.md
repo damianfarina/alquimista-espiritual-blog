@@ -101,6 +101,6 @@ Utilizá esta energía para iluminar tu verdadero propósito, comunicar tu verda
 
 **Mis mensajes**
 
-Te invito ver el nuevo episodio del Podcast que he creado con mi amiga y colega Kira acerca de este tema, convertirte en uno de nuestros **_Versus Visionaries_** y recibir más sugerencias sobre cómo nosotras abrazamos nuestra imperfección; te dejo el enlace [aquí](https://www.youtube.com/watch?v=6wLDGDMDe_U&ab_channel=KiraEast).
+Te invito ver el nuevo episodio del Podcast que he creado con mi amiga y colega Kira acerca de este tema, convertirte en uno de nuestros **_Versus Visionaries_** y recibir más sugerencias sobre cómo nosotras abrazamos nuestra imperfección; te dejo el enlace [aquí](https://youtu.be/_Xu84lRuRNQ).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

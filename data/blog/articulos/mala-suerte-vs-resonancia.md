@@ -137,6 +137,6 @@ Durante esta semana, haz tu tablero de visión, encuentra imágenes que resuenen
 
 Además, te puedes proponer realizar un acto de amabilidad al día o encontrar una organización local donde puedas ser voluntario y contribuir con la comunidad.
 
-Si quieres saber más acerca de cómo mi amiga Kira y yo transformamos la mala suerte en un recurso útil para moldear nuestra realidad, te invito a ver el episodio del Podcast Versus – Harmony In Contrasts, que habla acerca de este tema, y a convertirte en uno de nuestros Versus Visionaries; te dejo el enlace aquí.
+Si quieres saber más acerca de cómo mi amiga Kira y yo transformamos la mala suerte en un recurso útil para moldear nuestra realidad, te invito a ver el episodio del Podcast Versus – Harmony In Contrasts, que habla acerca de este tema, y a convertirte en uno de nuestros Versus Visionaries; te dejo el enlace [aquí](https://youtu.be/q7kfa-PDQGk).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

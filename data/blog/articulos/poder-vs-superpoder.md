@@ -110,7 +110,7 @@ Dejá que esta energía te guíe hacia el empoderamiento, el crecimiento y una c
 
 Dedicá un momento para identificar tus poderes innatos, nutrirlos con pasión y propósito, y comprometerte a tomar acciones consistentes que se alineen con tus valores y aspiraciones.
 
-Te invito a ver el nuevo episodio del Podcast **_Versus – Harmony In Contrasts_** que habla acerca de este tema y convertirte en uno de nuestros **\*Versus Visionaries** para recibir más sugerencias sobre cómo nosotras convertimos nuestro poder en superpoder; te dejo el enlace [aquí](https://www.youtube.com/watch?v=FYOsdSagOB0&ab_channel=KiraEast).
+Te invito a ver el nuevo episodio del Podcast **_Versus – Harmony In Contrasts_** que habla acerca de este tema y convertirte en uno de nuestros **\*Versus Visionaries** para recibir más sugerencias sobre cómo nosotras convertimos nuestro poder en superpoder; te dejo el enlace [aquí](https://youtu.be/DdFcx0I6SLc).
 
 Además, te dejo estas preguntas:
 

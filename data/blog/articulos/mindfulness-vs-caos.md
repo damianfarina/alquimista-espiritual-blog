@@ -133,6 +133,6 @@ Te dejo una frase clave para la semana: **“Encuentro mindfulness en medio del 
 
 Te dejo una pregunta: ¿Cómo encuentras claridad en el caos, empoderándote para navegar a través de los desafíos con gracia y elegancia?
 
-Si quieres saber más acerca de cómo encuentro paz en medio del caos, te invito a ver el episodio del Podcast Versus – Harmony In Contrasts, que habla acerca de este tema; te dejo el enlace [aquí](https://www.youtube.com/@alquimistaespiritual).
+Si quieres saber más acerca de cómo encuentro paz en medio del caos, te invito a ver el episodio del Podcast Versus – Harmony In Contrasts, que habla acerca de este tema; te dejo el enlace [aquí](https://youtu.be/R3HSSl3a2es).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

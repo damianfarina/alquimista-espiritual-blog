@@ -127,6 +127,6 @@ Abraza la valentía: La energía de Leo fomenta la valentía. Sal de tu zona de 
 
 Haz tu ejercicio de las 7 capas en profundidad hacia el PARA QUÉ como te expliqué. Reflexiona sobre lo que te impulsa a diario: ¿acaso son los resultados tangibles que buscas lograr o la motivación más profunda e intrínseca que impulsa tus acciones? ¿Sientes una sensación de alineación entre tus acciones y tu propósito general?
 
-Si quieres conocer nuestro Para qué más profundo, te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, que habla acerca de este tema, y a convertirte en uno de nuestros **_Versus Visionaries_**; te dejo el enlace [aquí](https://www.youtube.com/watch?v=2Um-juhJiMs&ab_channel=KiraEast).
+Si quieres conocer nuestro Para qué más profundo, te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, que habla acerca de este tema, y a convertirte en uno de nuestros **_Versus Visionaries_**; te dejo el enlace [aquí](https://youtu.be/acBlZ9euI9c).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

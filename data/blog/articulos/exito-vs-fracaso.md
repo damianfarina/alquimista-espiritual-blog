@@ -104,6 +104,6 @@ Abraza la sensibilidad de Cáncer, la naturaleza soñadora de Neptuno y el poder
 
 Te invito a ver el nuevo episodio del Podcast **_Versus – Harmony In Contrasts_** que he creado con mi amiga y colega Kira acerca de este tema y te dejo esta pregunta: si estás pensando en un fracaso reciente, **¿cómo podrías convertir las lecciones de eso en el combustible para el éxito de mañana?**
 
-Dejanos tu comentario en YouTube, compartí tus aprendizajes y tu historia, y permití que otros se inspiren con tu valor para construir éxito a partir de los fracasos. También te invito a convertirte en uno de nuestros Versus Visionaries y recibir más sugerencias sobre cómo nosotras convertimos el fracaso en éxito; te dejo el enlace [aquí](https://www.youtube.com/watch?v=STLduwUe8W0&t=158s).
+Dejanos tu comentario en YouTube, compartí tus aprendizajes y tu historia, y permití que otros se inspiren con tu valor para construir éxito a partir de los fracasos. También te invito a convertirte en uno de nuestros Versus Visionaries y recibir más sugerencias sobre cómo nosotras convertimos el fracaso en éxito; te dejo el enlace [aquí](https://youtu.be/UpkDQ36qXOQ).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

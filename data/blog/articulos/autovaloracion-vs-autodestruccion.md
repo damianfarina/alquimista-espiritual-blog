@@ -106,7 +106,7 @@ Te dejo una frase clave para que reflexiones: **“A través de la claridad de p
 
 Toma un bolígrafo ahora y escribe en los próximos 10 minutos hasta 30 cosas que te gustan de ti mismo. Haz de esa lista tu lectura diaria y continúa hasta llegar a 100. Pregunta a tu familia, a tus amigos, a tus colegas, qué es lo que aman de ti y agrégalo a la lista. Cuando tengas dudas sobre tu valor, acude a esta lista y celebra la dignidad y la brillantez de ti mismo.
 
-Te invito a ver el nuevo episodio del Podcast que he creado con mi amiga Kira **_Versus – Harmony In Contrasts_**, que habla acerca de este tema, y a convertirte en uno de nuestros **_Versus Visionaries_** para recibir más sugerencias sobre cómo nosotras lidiamos con la autodestrucción y reforzamos la autovaloración; te dejo el enlace [aquí](https://www.youtube.com/watch?v=87NcCdpnbPU&ab_channel=KiraEast).
+Te invito a ver el nuevo episodio del Podcast que he creado con mi amiga Kira **_Versus – Harmony In Contrasts_**, que habla acerca de este tema, y a convertirte en uno de nuestros **_Versus Visionaries_** para recibir más sugerencias sobre cómo nosotras lidiamos con la autodestrucción y reforzamos la autovaloración; te dejo el enlace [aquí](https://youtu.be/T97KLeTsFpg).
 
 ¡Y cuando tengas esa lista, simplemente danos una señal! Podés escribirnos y contarnos cómo te has sentido luego de crearla.
 
