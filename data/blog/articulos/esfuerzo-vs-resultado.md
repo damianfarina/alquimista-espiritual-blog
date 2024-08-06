@@ -12,7 +12,7 @@ tags:
     'Propósito',
     'Pasión y enfoque',
   ]
-draft: true
+draft: false
 summary: Una lección de vida
 ---
 
