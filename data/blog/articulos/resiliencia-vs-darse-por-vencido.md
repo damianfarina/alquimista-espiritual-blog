@@ -12,7 +12,7 @@ tags:
     'Universo',
     'Propósito',
   ]
-draft: true
+draft: false
 summary: Cómo transformar el dolor y la desesperación en fuerza y propósito
 ---
 
