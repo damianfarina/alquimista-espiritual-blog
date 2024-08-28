@@ -12,7 +12,7 @@ tags:
     'Mundo etérico',
     'Propósito',
   ]
-draft: true
+draft: false
 summary: Encuentra la chispa que impulsa tus sueños
 ---
 
@@ -92,6 +92,6 @@ Aquí te dejo unos ejercicios que puedes practicar para conectar con la inspirac
 
 Abraza esta potente energía celestial para transformar la apatía en inspiración, y deja que las fuerzas del amor, el cambio y la conexión te guíen hacia una vida más vibrante y plena.
 
-También te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, en el cual hablamos acerca de este tema; te dejo el enlace [aquí](https://www.youtube.com/playlist?list=PL_vqt0UQlLi5JPAaW7HR_AbEJj7EOE4sM).
+También te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, en el cual hablamos acerca de este tema; te dejo el enlace [aquí](https://www.youtube.com/watch?v=suq4dBs25gM).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).

@@ -122,6 +122,6 @@ Te invito a que esta semana hagas algún ejercicio para practicar la resiliencia
 
 **_Voluntariado:_** Encuentra una causa u organización que te apasione y ofrece tu tiempo como voluntario. Sumergirte en el servicio puede proporcionar un impulso poderoso a tu sentido de propósito y resiliencia.
 
-También te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, en el cual hablamos acerca de este tema; te dejo el enlace [aquí](https://www.youtube.com/playlist?list=PL_vqt0UQlLi5JPAaW7HR_AbEJj7EOE4sM).
+También te invito a ver el episodio del Podcast **_Versus – Harmony In Contrasts_**, en el cual hablamos acerca de este tema; te dejo el enlace [aquí](https://www.youtube.com/watch?v=1I9TVWOGrSs).
 
 Además, si querés estar al tanto de toda la energía de esta semana en más profundidad, podés escuchar el audio que preparo todos los lunes para Telegram [aquí](https://t.me/+FAsF6NBDMnU5NDQ8).
