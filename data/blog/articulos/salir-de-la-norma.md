@@ -12,7 +12,7 @@ tags:
     'Xenofobia',
     'Lealtades invisibles',
   ]
-draft: true
+draft: false
 summary: Transforma tus creencias para alcanzar tu verdadero potencial
 ---
 
