@@ -17,5 +17,3 @@ El objetivo de este plan es enfocarnos en hacer limpieza y elevar la vibración.
 Se preparará una fórmula floral acorde a lo que surja durante la sesión y también se incluirá una Bruma de protección para sellar el aura para que la persona lleve consigo.
 
 En la 4.a semana, haremos una videollamada de seguimiento para que podamos charlar sobre los cambios observados y sobre aquello que se necesite ajustar.
-
-**Intercambio: €230**

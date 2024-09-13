@@ -15,5 +15,3 @@ El objetivo de este plan es lograr una sensación de confort y bienestar, más q
 Se preparará una fórmula floral para que la persona tome luego de la sesión de manera que la sensación de bienestar continúe, y tambié se incluirá una Bruma de protección para sellar el aura para que la persona lleve consigo.
 
 Este plan está pensado para personas que han atravesado situaciones difíciles y lo que necesitan en este momento es sentir calma, paz y armonía.
-
-**Intercambio: €90**

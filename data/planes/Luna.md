@@ -14,8 +14,6 @@ En este caso, se hará una grabación en función de la luna en la carta natal d
 
 Además, se incluirá una fórmula floral específica para la luna natal de la persona y un mandala para que se trabaje a la par.
 
-**Intercambio: €60**
-
 ---
 
 **Sesión de BNE de 1 hora + lectura rápida de aspectos astrológicos principales + fórmula floral personalizada para la luna y mandala + ejercicio personalizado**
@@ -24,8 +22,6 @@ En el caso de este plan, trabajaremos a partir de la luna natal de la persona, o
 
 Se incluirá una fórmula floral específica para la luna natal de la persona y un mandala para que se trabaje a la par, además de ejercicios de autocuidado y amor propio para el reencuentro con el/la niñ@ interior.
 
-**Intercambio: €90**
-
 ---
 
 **Sesión de BNE de 1 hora + lectura rápida de aspectos astrológicos principales + fórmula floral personalizada para la luna y mandala + ejercicio personalizado + videollamada de seguimiento de 30 minutos a los 10 días**
@@ -33,8 +29,6 @@ Se incluirá una fórmula floral específica para la luna natal de la persona y 
 En el caso de este plan, trabajaremos a partir de la luna natal de la persona, observando instrucciones dolorosas que puedan estar representando un conflicto en la vida de la persona.
 
 Se incluirá una fórmula floral específica para la luna natal de la persona y un mandala para que se trabaje a la par, además de ejercicios de autocuidado y amor propio para el reencuentro con el/la niñ@ interior. Y haremos seguimiento por videollamada para conversar acerca del avance en el proceso.
-
-**Intercambio: €120**
 
 ---
 
