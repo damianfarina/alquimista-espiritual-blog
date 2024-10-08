@@ -1,7 +1,7 @@
 ---
 title: Sesión Mercuriana
 date: '2023-12-04'
-draft: false
+draft: true
 description: 'Solo voy de paso'
 imgSrc: /static/images/BNE/mente3.jpg
 ---

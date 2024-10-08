@@ -1,7 +1,7 @@
 ---
 title: Sesión Neptuniana
 date: '2023-12-04'
-draft: false
+draft: true
 description: 'Limpio, purifico y elevo mi vibración'
 imgSrc: /static/images/acerca-de/energia.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sesión Lunar
 date: '2023-12-04'
-draft: false
+draft: true
 description: 'Me comprometo a maternarme'
 imgSrc: /static/images/Astrologia/lunas.jpg
 ---

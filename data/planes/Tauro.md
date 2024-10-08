@@ -1,7 +1,7 @@
 ---
 title: Sesión Taurina
 date: '2023-12-04'
-draft: false
+draft: true
 description: 'Voy despacio, pero seguro'
 imgSrc: /static/images/Astrologia/tauro.jpg
 ---

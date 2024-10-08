@@ -1,7 +1,7 @@
 ---
 title: Sesión Plutoniana
 date: '2023-12-04'
-draft: false
+draft: true
 description: '¡Estoy listo para destruir y reconstruir!'
 imgSrc: /static/images/Astrologia/pluton.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sesión Uraniana
 date: '2023-12-04'
-draft: false
+draft: true
 description: '¡Estoy comprometido con mi proceso y quiero cambio!'
 imgSrc: /static/images/Astrologia/urano.jpg
 ---

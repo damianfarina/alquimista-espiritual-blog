@@ -1,7 +1,7 @@
 ---
 title: Sesión Venusina
 date: '2023-12-04'
-draft: false
+draft: true
 description: 'Quiero sentir calma y conforto'
 imgSrc: /static/images/Astrologia/venus.jpg
 ---
