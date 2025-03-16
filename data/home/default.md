@@ -6,6 +6,8 @@ title: Home
 
 ---
 
+**¡HOLA! Te comento que he creado un nuevo sitio web, puedes venir a visitarlo en [alquimistaespiritual.com](https://www.alquimistaespiritual.com/)**
+
 He creado este sitio para compartir y explicar a lo que me dedico. Durante años he estado viajando, estudiando, buscando encontrarme a mí misma y comprender el mundo que me rodea. He pasado por diferentes etapas, unas más duras que otras, y he aprendido muchas técnicas que me han beneficiado de una forma u otra, pero no me ayudaban a cambiar mi vida realmente.
 
 Hasta que encontré las que hoy quiero compartirte y sentí dar un salto de consciencia. Al inicio no lograba descifrar cómo encajarlas todas de una manera que fuera fácil de comprender y aplicar. Hasta que llegó a mí la palabra “**Alquimia**”.

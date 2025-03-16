@@ -2,7 +2,7 @@
 name: Victoria Farina
 avatar: /static/images/acerca-de/flor.jpg
 occupation: Alquimista Espiritual
-email: nvfarina@gmail.com
+email: magic@alquimistaespiritual.com
 ---
 
 Mi nombre es Victoria. Podría hablar de todas las etiquetas que me he puesto en esta vida, pero básicamente soy un espíritu encarnado que busca la expansión de la consciencia. Desde muy chica busco respuestas a preguntas como qué hago acá, de dónde vengo, por qué nací acá y no allá, cuál es mi propósito, etc. Si hoy miro hacia atrás, puedo reconocer que siempre tuve muchas señales en mi camino que no sabía interpretar en el momento, pero que hoy tienen todo el sentido.
